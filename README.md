@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
 
-## Top Interviedw Questions(Easy Collection)(https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
+## [Top Interviedw Questions(Easy Collection)](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
 
 ## Algorithms
 * [Array](https://github.com/kamyu104/LeetCode-Solutions#array)
