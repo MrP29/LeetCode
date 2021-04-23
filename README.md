@@ -14,6 +14,6 @@
 
 <br/>
 <div align="right">
-    <b><a href="#top-interview-questions-easy">⬆️ Back to Top</a></b>
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>
 <br/>
