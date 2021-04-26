@@ -1,5 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
 * May have errors in code or in description
+* Welcome to comments about errors :D
 
 ## Algorithms
 * [Array](https://github.com/kamyu104/LeetCode-Solutions#array)
