@@ -11,6 +11,7 @@
 0136 | [Single Number](https://leetcode.com/problems/single-number/)| [Java](./Java/136_Single_Number.java) | _O(n)_       | _O(1)_         | Easy           || Bit Manipulation
 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)| [Java](./Java/189_Rotate_Array.java) | _O(n)_       | _O(1)_         | Easy           || Reverse Array
 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Java](./Java/217_Contains_Duplicate.java) | _O(n)_       | _O(n)_         | Easy           || Hash Table
+0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [Java](./Java/350_Intersection_of_Two_Arrays_II.java) | _O(n)_       | _O(n1 + n2)_         | Easy           || Hash Table
 
 <br/>
 <div align="right">
