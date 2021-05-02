@@ -12,8 +12,8 @@
 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./Array/Java/1_Two_Sum.java) | _O(n)_       | _O(n)_         | Easy           || Hash Table
 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./Array/Java/26_Remove_Duplicates_from_Sorted_Array.java) | _O(n)_       | _O(1)_         | Easy           || Two Pointers
 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [Java](./Array/Java/26_Remove_Duplicates_from_Sorted_Array.java) | _O(1)_       | _O(1)_         | Medium           || Hash Table
-0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| [Java](./Array/Java/48_Rotate_Image.java) | _O(M)_       | _O(1)_         | Medium           || Loop, Matrix
-0066 | [Plus One](https://leetcode.com/problems/plus-one/)| [Java](./Array/Java/66_Plus_One.java) | _O(n)_       | _O(1)_         | Easy           || Loop
+0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| [Java](./Array/Java/48_Rotate_Image.java) | _O(M)_       | _O(1)_         | Medium           || Iteration, Matrix
+0066 | [Plus One](https://leetcode.com/problems/plus-one/)| [Java](./Array/Java/66_Plus_One.java) | _O(n)_       | _O(1)_         | Easy           || Iteration
 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Java](./Array/Java/122_Best_Time_to_Buy_and_Sell_Stock_II.java) | _O(n)_       | _O(1)_         | Easy           || Simple One Pass
 0136 | [Single Number](https://leetcode.com/problems/single-number/)| [Java](./Array/Java/136_Single_Number.java) | _O(n)_       | _O(1)_         | Easy           || Bit Manipulation
 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)| [Java](./Array/Java/189_Rotate_Array.java) | _O(n)_       | _O(1)_         | Easy           || Reverse Array
