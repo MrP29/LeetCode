@@ -31,6 +31,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/)| [Java](./String/Java/344_Reverse_String.java) | _O(n)_       | _O(1)_         | Easy           || Two Pointers, Iteration
+0344 | [Reverse St2323232323232ring](https://leetcode.com/problems/reverse-string/)| [Java](./String/Java/344_Reverse_String.java) | _O(n)_       | _O(1)_         | Easy           || Two Pointers, Iteration
 
 <br/>
 <div align="right">
