@@ -3,7 +3,8 @@
 * Welcome to comments about errors :D
 
 ## Algorithms
-* [Array](https://github.com/kamyu104/LeetCode-Solutions#array)
+* [Array](https://github.com/MrP29/LeetCode/tree/main/Array)
+* [String]
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
@@ -19,6 +20,17 @@
 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Java](./Java/217_Contains_Duplicate.java) | _O(n)_       | _O(n)_         | Easy           || Hash Table
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Java](./Java/283_Move_Zeroes.java) | _O(n)_       | _O(n)_         | Easy           || Two Pointers
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [Java](./Java/350_Intersection_of_Two_Arrays_II.java) | _O(n)_       | _O(n1 + n2)_         | Easy           || Hash Table
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Strings
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./Java/1_Two_Sum.java) | _O(n)_       | _O(n)_         | Easy           || Hash Table
 
 <br/>
 <div align="right">
