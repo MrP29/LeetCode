@@ -5,6 +5,7 @@
 ## Algorithms
 * [Array](https://github.com/MrP29/LeetCode/tree/main/Array)
 * [String](https://github.com/MrP29/LeetCode/tree/main/String)
+* [Math](https://github.com/MrP29/LeetCode/tree/main/Math)
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
