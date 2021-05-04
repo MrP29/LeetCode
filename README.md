@@ -38,3 +38,14 @@
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>
 <br/>
+
+## Math
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Java](./Math/Java/7_Reverse_Integer.java) | _O(log(x))_       | _O(1)_         | Easy           || 
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
