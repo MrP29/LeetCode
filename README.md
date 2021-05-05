@@ -6,6 +6,7 @@
 * [Array](https://github.com/MrP29/LeetCode/tree/main/Array)
 * [String](https://github.com/MrP29/LeetCode/tree/main/String)
 * [Math](https://github.com/MrP29/LeetCode/tree/main/Math)
+* [Linked List](https://github.com/MrP29/LeetCode/tree/main/Linked-list)
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
@@ -44,6 +45,17 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Java](./Math/Java/7_Reverse_Integer.java) | _O(log(x))_       | _O(1)_         | Easy           || 
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Linked-list
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0061 | [Rotate List](https://leetcode.com/problems/rotate-list/)| [Java](./Linked-list/Java/61_Rotate_List.java) | _O(n)_       | _O(1)_         | Medium           || 
 
 <br/>
 <div align="right">
