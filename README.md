@@ -35,6 +35,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/)| [Java](./String/Java/344_Reverse_String.java) | _O(n)_       | _O(1)_         | Easy           || Two Pointers, Iteration
+0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [Java](./String/Java/387_First_Unique_Character_in_a_String.java) | _O(n)_       | _O(1)_         | Easy           || Array, Hash Table
 
 <br/>
 <div align="right">
