@@ -12,7 +12,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./Array/Java/1_Two_Sum.java) | _O(n)_       | _O(n)_         | Easy           || Hash Table
-0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./Array/Java/26_Remove_Duplicates_from_Sorted_Array.java) | _O(n)_       | _O(1)_         | Easy           || Two Pointers
+0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./Array/Java/26_Remove_Duplicates_from_Sorted_Array.java) | _O(n)_       | _O(1)_         | Easy           | Top Interview Questions | Two Pointers
 0027 | [Remove Element](https://leetcode.com/problems/remove-element/)| [Java](./Array/Java/27_Remove_Element.java) | _O(n)_       | _O(1)_         | Easy           || Two Pointers
 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [Java](./Array/Java/26_Remove_Duplicates_from_Sorted_Array.java) | _O(1)_       | _O(1)_         | Medium           || Hash Table
 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| [Java](./Array/Java/48_Rotate_Image.java) | _O(M)_       | _O(1)_         | Medium           || Iteration, Matrix
