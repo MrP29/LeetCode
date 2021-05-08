@@ -8,10 +8,13 @@
 * [Math](https://github.com/MrP29/LeetCode/tree/main/Math)
 * [Linked List](https://github.com/MrP29/LeetCode/tree/main/Linked-list)
 
+### Tag
+* TIQ(Top Interview Questions)
+
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./Array/Java/1_Two_Sum.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Hash Table
+0001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./Array/Java/1_Two_Sum.java) | _O(n)_ | _O(n)_ | Easy | TIQ | Hash Table
 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./Array/Java/26_Remove_Duplicates_from_Sorted_Array.java) | _O(n)_       | _O(1)_         | Easy           | Top Interview Questions | Two Pointers
 0027 | [Remove Element](https://leetcode.com/problems/remove-element/)| [Java](./Array/Java/27_Remove_Element.java) | _O(n)_       | _O(1)_         | Easy           || Two Pointers
 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [Java](./Array/Java/26_Remove_Duplicates_from_Sorted_Array.java) | _O(1)_       | _O(1)_         | Medium           | Top Interview Questions | Hash Table
