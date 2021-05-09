@@ -14,6 +14,19 @@ class Solution {
 	}
 }
 
+//Use replaceAll string (Time: O(n) Space: O(n))
+class Solution {
+	public boolean isPalindrome(String s) {
+        String filtered = s.toLowerCase();
+		filtered = filtered.replaceAll("[^a-z0-9]", "");
+        for(int i = 0; i < filtered.length() / 2; i++) {
+            if(filtered.charAt(i) != filtered.charAt(filtered.length() - 1 - i))
+                return false;
+        }
+        return true;
+	}
+}
+
 //Use reverse string (Time: O(n) Space: O(n))
 class Solution {
 	public coolean isPalindrome(String s) {
