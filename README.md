@@ -34,6 +34,7 @@
 ## Strings
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Java](./String/Java/125_Valid_Palindrome.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointers, Reverse String
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./String/Java/242_Valid_Anagram.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Array, Sort, HashTable
 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/)| [Java](./String/Java/344_Reverse_String.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointers, Iteration
 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [Java](./String/Java/387_First_Unique_Character_in_a_String.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Array, Hash Table
