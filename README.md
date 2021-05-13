@@ -29,6 +29,7 @@
 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [Java](./Array/Java/977_Squares_of_a_Sorted_Array.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Two Pointer
 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)| [Java](./Array/Java/1089_Duplicate_Zeros.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)| [Java](./Array/Java/1295_Find_Numbers_with_Even_Number_of_Digits.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
+1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)| [Java](./Array/Java/1346_Check_If_N_and_Its_Double_Exist.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Hash Table
 
 <br/>
 <div align="right">
@@ -40,7 +41,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Java](./String/Java/125_Valid_Palindrome.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointer, Reverse String
-0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./String/Java/242_Valid_Anagram.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Array, Sort, HashTable
+0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./String/Java/242_Valid_Anagram.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Array, Sort, Hash Table
 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/)| [Java](./String/Java/344_Reverse_String.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointer, Iteration
 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [Java](./String/Java/387_First_Unique_Character_in_a_String.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Array, Hash Table
 
