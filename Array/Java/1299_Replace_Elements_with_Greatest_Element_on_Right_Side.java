@@ -1,3 +1,18 @@
+//Time: O(n) Space: O(1)
+class Solution {
+    public int[] replaceElements(int[] arr) {
+        int i = arr.length - 1;
+        int max = -1;
+        while(i >= 0) {
+            int temp = arr[i];
+            arr[i--] = max;
+            if(temp > max)
+                max = temp;
+        }
+        return arr;
+    }
+}
+
 //Time: O(n^2) Space: O(1)
 class Solution {
     public int[] replaceElements(int[] arr) {
