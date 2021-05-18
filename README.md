@@ -25,6 +25,7 @@
 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [Java](./Array/Java/219_Contains_Duplicate_II.java) | _O(n)_ | _O(n)_ | Easy || Hash Table
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Java](./Array/Java/283_Move_Zeroes.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Two Pointer
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [Java](./Array/Java/350_Intersection_of_Two_Arrays_II.java) | _O(n)_ | _O(n1 + n2)_ | Easy | Top Interview Questions | Hash Table
+0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)| [Java](./Array/Java/414_Third_Maximum_Number.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Hash Table, Tree
 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [Java](./Array/Java/485_Max_Consecutive_Ones.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [Java](./Array/Java/905_Sort_Array_By_Parity.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | Sort
 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)| [Java](./Array/Java/941_Valid_Mountain_Array.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
