@@ -29,6 +29,7 @@
 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [Java](./Array/Java/905_Sort_Array_By_Parity.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | Sort
 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)| [Java](./Array/Java/941_Valid_Mountain_Array.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [Java](./Array/Java/977_Squares_of_a_Sorted_Array.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Two Pointer
+1051 | [Height Checker](https://leetcode.com/problems/height-checker/)| [Java](./Array/Java/1051_Height_Checker.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Array, Sort
 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)| [Java](./Array/Java/1089_Duplicate_Zeros.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)| [Java](./Array/Java/1295_Find_Numbers_with_Even_Number_of_Digits.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)| [Java](./Array/Java/1295_Find_Numbers_with_Even_Number_of_Digits.java) | _O(n^2)_ | _O(1)_ | Easy | Arrays 101 | 
