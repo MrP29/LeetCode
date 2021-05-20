@@ -7,6 +7,7 @@
 * [String](https://github.com/MrP29/LeetCode/tree/main/String)
 * [Math](https://github.com/MrP29/LeetCode/tree/main/Math)
 * [Linked List](https://github.com/MrP29/LeetCode/tree/main/Linked-list)
+* [Tree](https://github.com/MrP29/LeetCode/tree/main/Tree)
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
@@ -72,6 +73,17 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/)| [Java](./Linked-list/Java/61_Rotate_List.java) | _O(n)_       | _O(1)_         | Medium           || 
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Tree
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Java](./Linked-list/Java/144_Binary_Tree_Preorder_Traversal.java) | _O(n)_       | _O(n)_         | Easy           | Binary Tree | Iteration
 
 <br/>
 <div align="right">
