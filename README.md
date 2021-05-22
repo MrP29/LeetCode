@@ -83,6 +83,7 @@
 ## Tree
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Java](./Linked-list/Java/94_Binary_Tree_Inorder_Traversal.java) | _O(n)_       | _O(n)_         | Easy           | Binary Tree | Iteration
 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Java](./Linked-list/Java/144_Binary_Tree_Preorder_Traversal.java) | _O(n)_       | _O(n)_         | Easy           | Binary Tree | Iteration
 
 <br/>
