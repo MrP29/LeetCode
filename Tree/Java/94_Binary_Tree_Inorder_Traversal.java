@@ -13,6 +13,8 @@
  *     }
  * }
  */
+
+//Iteration (Time: O(n) Space: O(n))
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> arr = new ArrayList<>();
@@ -20,12 +22,12 @@ class Solution {
         if(root == null)
             return arr;
         
-        Stack<TreeNode> st = new Stack<>();
+        Stack<TreeNode> stack = new Stack<>();
         TreeNode currNode = root;
         
-        while(!st.isEmpty() || currNode != null) {
+        while(!stack.isEmpty() || currNode != null) {
             if(currNode != null) {
-                st.push(currNode);
+                stack.push(currNode);
                 currNode = currNode.left;
             } else {
                 currNode = st.pop();
@@ -34,5 +36,50 @@ class Solution {
             }
         }
         return arr;
+    }
+}
+
+//Iteration (Time: O(n) Space: O(n))
+class Solution {
+    public List<Integer> inorderTraversal(TreeNode root) {
+        List<Integer> arr = new ArrayList<>();
+        
+        if(root == null)
+            return arr;
+        
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode currNode = root;
+        
+        while(!stack.isEmpty() || currNode != null) {
+            while(currNode != null) {
+                stack.push(currNode);
+                currNode = currNode.left;
+            }
+            currNode = stack.pop();
+            arr.add(currNode.val);
+            currNode = currNode.right;
+        }
+        return arr;
+    }
+}
+
+//Recursion (Time: O(n) Space: (n))
+class Solution {
+    public List<Integer> inorderTraversal(TreeNode root) {
+        List<Integer> arr = new ArrayList<>();
+        inorder(root, arr);
+        return arr;
+    }
+
+    public void inorder(TreeNode root, List<Integer> arr) {
+        if(root != null) {
+            if(root.left != null) {
+                inorder(root.left, arr);
+            }
+            arr.add(root.val);
+            if(root.right != null) {
+                inorder(root.right, arr);
+            }
+        }
     }
 }
