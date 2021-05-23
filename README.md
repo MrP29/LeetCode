@@ -47,6 +47,7 @@
 ## Strings
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [Java](./String/Java/8_String_to_Integer_atoi.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | 
 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Java](./String/Java/125_Valid_Palindrome.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointer, Reverse String
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./String/Java/242_Valid_Anagram.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Array, Sort, Hash Table
 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/)| [Java](./String/Java/344_Reverse_String.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointer, Iteration
