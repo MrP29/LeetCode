@@ -49,6 +49,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [Java](./String/Java/8_String_to_Integer_atoi.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | 
 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [Java](./String/Java/28_Implement_strStr().java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | 
+0038 | [Count and Say](https://leetcode.com/problems/count-and-say/)| [Java](./String/Java/38_Count_and_Say.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Recursion, Regex
 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Java](./String/Java/125_Valid_Palindrome.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointer, Reverse String
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./String/Java/242_Valid_Anagram.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Array, Sort, Hash Table
 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/)| [Java](./String/Java/344_Reverse_String.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointer, Iteration
