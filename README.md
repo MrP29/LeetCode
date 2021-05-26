@@ -76,7 +76,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/)| [Java](./Linked-list/Java/61_Rotate_List.java) | _O(n)_       | _O(1)_         | Medium           || 
-0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/)| [Java](./Linked-list/Java/707_Design_Linked_List.java) | _O(1)_       | _O(1)_         | Medium           || 
+0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/)| [Java](./Linked-list/Java/707_Design_Linked_List.java) | _O(1)_       | _O(1)_         | Medium           | Linked List | 
 
 <br/>
 <div align="right">
