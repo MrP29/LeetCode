@@ -65,6 +65,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Java](./Math/Java/7_Reverse_Integer.java) | _O(log(x))_ | _O(1)_ | Easy | Top Interview Questions | 
+0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Java](./Math/Java/9_Palindrome_Number.java) | _O(log(n))_ | _O(1)_ | Easy | | 
 
 <br/>
 <div align="right">
