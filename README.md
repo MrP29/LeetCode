@@ -29,6 +29,7 @@
 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)| [Java](./Array/Java/414_Third_Maximum_Number.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Hash Table, Tree
 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)| [Java](./Array/Java/448_Find_All_Numbers_Disappeared_in_an_Array.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Array, Hash Table
 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [Java](./Array/Java/485_Max_Consecutive_Ones.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
+0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)| [Java](./Array/Java/498_Diagonal_Traverse.java) | _O(n*m)_ | _O(1)_ | Medium | Array and String | 
 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [Java](./Array/Java/724_Find_Pivot_Index.java) | _O(n)_ | _O(1)_ | Easy | Array and String | 
 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)| [Java](./Array/Java/747_Largest_Number_At_Least_Twice_of_Others.java) | _O(n)_ | _O(1)_ | Easy | Array and String | 
 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [Java](./Array/Java/905_Sort_Array_By_Parity.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | Sort
