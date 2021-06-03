@@ -17,6 +17,7 @@
 0027 | [Remove Element](https://leetcode.com/problems/remove-element/)| [Java](./Array/Java/27_Remove_Element.java) | _O(n)_ | _O(1)_ | Easy || Two Pointer
 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [Java](./Array/Java/26_Remove_Duplicates_from_Sorted_Array.java) | _O(1)_ | _O(1)_ | Medium | Top Interview Questions | Hash Table
 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| [Java](./Array/Java/48_Rotate_Image.java) | _O(M)_ | _O(1)_         | Medium | Top Interview Questions | Iteration, Matrix
+0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [Java](./Array/Java/54_Spiral_Matrix.java) | _O(n*m)_ | _O(n*m)_         | Medium | Array and String | 
 0066 | [Plus One](https://leetcode.com/problems/plus-one/)| [Java](./Array/Java/66_Plus_One.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Iteration
 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Java](./Array/Java/88_Merge_Sorted_Array.java) | _O(n + m)_ | _O(1)_ | Easy | Arrays 101 | Three Pointer
 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Java](./Array/Java/122_Best_Time_to_Buy_and_Sell_Stock_II.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Simple One Pass
