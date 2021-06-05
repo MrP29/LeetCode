@@ -81,7 +81,8 @@
 ## Linked-list
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Java](./Linked-list/Java/19_Remove_Nth_Node_From_End_of_List.java) | _O(n)_       | _O(1)_         | Medium           | Top Interview Questions | 
+0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Java](./Linked-list/Java/19_Remove_Nth_Node_From_End_of_List.java) | _O(n)_ | _O(1)_ | Medium | Top Interview Questions | 
+0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Java](./Linked-list/Java/21_Merge_Two_Sorted_Lists.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Iteration, Recursion
 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/)| [Java](./Linked-list/Java/61_Rotate_List.java) | _O(n)_       | _O(1)_         | Medium           || 
 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Java](./Linked-list/Java/206_Reverse_Linked_List.java) | _O(n)_       | _O(1)_         | Easy | Top Interview Questions | 
 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [Java](./Linked-list/Java/237_Delete_Node_in_a_Linked_List.java) | _O(1)_       | _O(1)_         | Easy | Top Interview Questions | 
