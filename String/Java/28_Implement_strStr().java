@@ -13,7 +13,7 @@ class Solution {
     }
 }
 
-//Character comparison (Time: O(n) Space: O(1))
+//Character comparison (Time: O(n*m) Space: O(1))
 class Solution {
     public int strStr(String haystack, String needle) {
         if(needle.length() == 0)
@@ -27,5 +27,12 @@ class Solution {
                 return i;
         }
         return -1;
+    }
+}
+
+//Using indexOf method (Time: O(n) Space: O(1))
+class Solution {
+    public int strStr(String haystack, String needle) {
+        return haystack.indexOf(needle);
     }
 }
