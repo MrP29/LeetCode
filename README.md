@@ -104,7 +104,8 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Java](./Linked-list/Java/94_Binary_Tree_Inorder_Traversal.java) | _O(n)_ | _O(n)_ | Easy | Binary Tree | Iteration, Recursion
-0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Java](./Linked-list/Java/104_Maximum_Depth_of_Binary_Tree.java) | _O(n)_ | _O(n)_ | Easy | Binary Tree | Recursion, Iteration
+0098 | [Validate_Binary_Search_Tree](https://leetcode.com/problems/validate-binary-search-tree/)| [Java](./Linked-list/Java/98_Validate_Binary_Search_Tree.java) | _O(n)_ | _O(n)_ | Medium | Top Interview Questions | Iteration, Recursion
+0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Java](./Linked-list/Java/104_Maximum_Depth_of_Binary_Tree.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Recursion, Iteration
 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Java](./Linked-list/Java/144_Binary_Tree_Preorder_Traversal.java) | _O(n)_ | _O(n)_ | Easy | Binary Tree | Iteration
 0145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Java](./Linked-list/Java/145_Binary_Tree_Postorder_Traversal.java) | _O(n)_ | _O(n)_ | Easy | Binary Tree | Iteration
 
