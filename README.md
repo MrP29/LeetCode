@@ -20,7 +20,8 @@
 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [Java](./Array/Java/54_Spiral_Matrix.java) | _O(n*m)_ | _O(n*m)_         | Medium | Array and String | 
 0066 | [Plus One](https://leetcode.com/problems/plus-one/)| [Java](./Array/Java/66_Plus_One.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Iteration
 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Java](./Array/Java/88_Merge_Sorted_Array.java) | _O(n+m)_ | _O(1)_ | Easy | Arrays 101 | Three Pointer
-0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Java](./Array/Java/118_Pascal's_Triangle.java) | _O(n^2)_ | _O(n^2)_ | Easy | Array and String | 
+0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Java](./Array/Java/118_Pascal's_Triangle.java) | _O(n^2)_ | _O(n^2)_ | Easy | Array and String |
+0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [Java](./Array/Java/119_Pascal's_Triangle_II.java) | _O(n^2)_ | _O(n)_ | Easy | Array and String | Mathematics
 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Java](./Array/Java/122_Best_Time_to_Buy_and_Sell_Stock_II.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Simple One Pass
 0136 | [Single Number](https://leetcode.com/problems/single-number/)| [Java](./Array/Java/136_Single_Number.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Bit Manipulation
 0167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [Java](./Array/Java/167_Two_Sum_II.java) | _O(n)_ | _O(1)_ | Easy | Array and String | Two pointer
