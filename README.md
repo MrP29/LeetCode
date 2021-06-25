@@ -127,22 +127,22 @@
 <br/>
 
 ## Not Uploaded Yet
-0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|
-0020 | [Valid Parentheses](https://leetcode.com/problems/roman-to-integer/)|
-0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|
-0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|
-0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|
-0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)|
-0204 | [Count Primes](https://leetcode.com/problems/count-primes/)|
-0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|
-0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)|
-0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|
-0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|
-0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|
-1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|
-1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|
-1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|
-1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|
+0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+0020 | [Valid Parentheses](https://leetcode.com/problems/roman-to-integer/)
+0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+0204 | [Count Primes](https://leetcode.com/problems/count-primes/)
+0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
+0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
+1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
+1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
+1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)
 
 <br/>
 <div align="right">
