@@ -8,6 +8,7 @@
 * [Math](https://github.com/MrP29/LeetCode/tree/main/Math)
 * [Linked List](https://github.com/MrP29/LeetCode/tree/main/Linked-list)
 * [Tree](https://github.com/MrP29/LeetCode/tree/main/Tree)
+* [Binary Search](https://github.com/MrP29/LeetCode/tree/main/Binary_Search)
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
@@ -120,6 +121,17 @@
 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [Java](./Tree/Java/108_Convert_Sorted_Array_to_Binary_Search_Tree.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Recursion
 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Java](./Tree/Java/144_Binary_Tree_Preorder_Traversal.java) | _O(n)_ | _O(n)_ | Easy | Binary Tree | Iteration
 0145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Java](./Tree/Java/145_Binary_Tree_Postorder_Traversal.java) | _O(n)_ | _O(n)_ | Easy | Binary Tree | Iteration
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Binary Search
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Java](./Binary_Search/Java/278_First_Bad_Version.java) | _O(logn)_ | _O(1)_ | Easy | Top Interview Questions | Iteration, Recursion
 
 <br/>
 <div align="right">
