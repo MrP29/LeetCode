@@ -143,7 +143,7 @@
 ## Dynamic Programming
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Java](./Binary_Search/Java/70_Climbing_Stairs.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Iteration, Recursion
+0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Java](./Dynamic_Programming/Java/70_Climbing_Stairs.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Iteration, Recursion
 
 <br/>
 <div align="right">
