@@ -9,6 +9,7 @@
 * [Linked List](https://github.com/MrP29/LeetCode/tree/main/Linked-list)
 * [Tree](https://github.com/MrP29/LeetCode/tree/main/Tree)
 * [Binary Search](https://github.com/MrP29/LeetCode/tree/main/Binary_Search)
+* [Dynamic Programming](https://github.com/MrP29/LeetCode/tree/main/Dynamic_Programming)
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
@@ -139,6 +140,17 @@
 </div>
 <br/>
 
+## Dynamic Programming
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Java](./Binary_Search/Java/70_Climbing_Stairs.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Iteration, Recursion
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## Not Uploaded Yet
 |  #  | Title           |
 |-----|---------------- |
@@ -155,6 +167,7 @@
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
+1281 | [Subtract the Product and Sum of DIgits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)
 
