@@ -59,6 +59,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [Java](./String/Java/8_String_to_Integer_atoi.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | 
+0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Java](./String/Java/13_Roman_to_Integer.java) | _O(n)_ | _O(1)_ | Easy | | Hash Table
 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [Java](./String/Java/14_Longest_Common_Prefix.java) | _O(s)_ | _O(1)_ | Easy | Top Interview Questions | 
 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Java](./String/Java/20_Valid_Parentheses.java) | _O(n)_ | _O(1)_ | Easy |  | Stack, Hash Table
 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [Java](./String/Java/28_Implement_strStr().java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | 
@@ -157,11 +158,12 @@
 |  #  | Title           |
 |-----|---------------- |
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
-0078 | [Roman to Integer](https://leetcode.com/problems/subsets/)
+0078 | [Subsets](https://leetcode.com/problems/subsets/)
 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+0202 | [Happy Number](https://leetcode.com/problems/happy-number/)
 0204 | [Count Primes](https://leetcode.com/problems/count-primes/)
 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
