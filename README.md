@@ -10,6 +10,7 @@
 * [Tree](https://github.com/MrP29/LeetCode/tree/main/Tree)
 * [Binary Search](https://github.com/MrP29/LeetCode/tree/main/Binary_Search)
 * [Dynamic Programming](https://github.com/MrP29/LeetCode/tree/main/Dynamic_Programming)
+* [Queue](https://github.com/MrP29/LeetCode/tree/main/Queue)
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
@@ -154,10 +155,20 @@
 </div>
 <br/>
 
+## Queue
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)| [Java](./Queue/Java/622_Design_Circular_Queue.java) | _O(1)_ | _O(n)_ | Medium | Queue & Stack | 
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## Not Uploaded Yet
 |  #  | Title           |
 |-----|---------------- |
-0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 0078 | [Subsets](https://leetcode.com/problems/subsets/)
 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
