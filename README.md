@@ -148,6 +148,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Java](./Dynamic_Programming/Java/70_Climbing_Stairs.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Iteration, Recursion
+0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Java](./Dynamic_Programming/Java/121_Best_Time_to_Buy_and_Sell_Stock.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | 
 
 <br/>
 <div align="right">
@@ -172,7 +173,6 @@
 0078 | [Subsets](https://leetcode.com/problems/subsets/)
 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
-0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)
 0204 | [Count Primes](https://leetcode.com/problems/count-primes/)
