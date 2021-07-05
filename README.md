@@ -161,6 +161,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)| [Java](./Queue/Java/622_Design_Circular_Queue.java) | _O(1)_ | _O(n)_ | Medium | Queue & Stack | 
+1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)| [Java](./Queue/Java/1046_Last_Stone_Weight.java) | _O(NlogN)_ | _O(N)_ | Easy | | Priority Queue, Bucket Sort
 
 <br/>
 <div align="right">
