@@ -107,6 +107,7 @@
 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [Java](./Linked-list/Java/234_Palindrome_Linked_List.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | 
 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [Java](./Linked-list/Java/237_Delete_Node_in_a_Linked_List.java) | _O(1)_ | _O(1)_ | Easy | Top Interview Questions | 
 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)| [Java](./Linked-list/Java/328_Odd_Even_Linked_List.java) | _O(n)_ | _O(1)_ | Medium | Linked List | 
+0430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)| [Java](./Linked-list/Java/430_Flatten_a_Multilevel_Doubly_Linked_List.java) | _O(N)_ | _O(N)_ | Medium | Linked List | DFS, Iteration, Recursion
 0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/)| [Java](./Linked-list/Java/707_Design_Linked_List.java) | _O(1)_ | _O(1)_ | Medium | Linked List | 
 
 <br/>
@@ -185,7 +186,6 @@
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
-0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)
 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 1281 | [Subtract the Product and Sum of DIgits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
