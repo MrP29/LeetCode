@@ -41,6 +41,7 @@
 0561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/)| [Java](./Array/Java/561_Array_Partition_I.java) | _O(n)_ | _O(n)_ | Easy | Array and String | 
 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [Java](./Array/Java/724_Find_Pivot_Index.java) | _O(n)_ | _O(1)_ | Easy | Array and String | 
 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)| [Java](./Array/Java/747_Largest_Number_At_Least_Twice_of_Others.java) | _O(n)_ | _O(1)_ | Easy | Array and String | 
+0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)| [Java](./Array/Java/860_Lemonade_Change.java) | _O(N)_ | _O(1)_ | Easy | | 
 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [Java](./Array/Java/905_Sort_Array_By_Parity.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | Sort
 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)| [Java](./Array/Java/941_Valid_Mountain_Array.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [Java](./Array/Java/977_Squares_of_a_Sorted_Array.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Two Pointer
@@ -184,6 +185,7 @@
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)
 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 1281 | [Subtract the Product and Sum of DIgits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
