@@ -99,6 +99,7 @@
 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Java](./Linked-list/Java/19_Remove_Nth_Node_From_End_of_List.java) | _O(n)_ | _O(1)_ | Medium | Top Interview Questions | 
 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Java](./Linked-list/Java/21_Merge_Two_Sorted_Lists.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Iteration, Recursion
 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/)| [Java](./Linked-list/Java/61_Rotate_List.java) | _O(n)_ | _O(1)_ | Medium || 
+0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [Java](./Linked-list/Java/138_Copy_List_with_Random_Pointer.java) | _O(N)_ | _O(N)_ | Medium | Linked List | Iteration, Recursion, HashMap
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Java](./Linked-list/Java/141_Linked_List_Cycle.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointer
 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [Java](./Linked-list/Java/142_Linked_List_Cycle_II.java) | _O(n)_ | _O(1)_ | Medium | Linked List | Two Pointer, Hash Table
 0160 | [Intersection of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [Java](./Linked-list/Java/160_Intersection_of_Two_Linked_List.java) | _O(Max(n, m))_ | _O(1)_ | Easy | Linked List | Two Pointer, Hash Table
