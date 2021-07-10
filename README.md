@@ -189,6 +189,7 @@
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
