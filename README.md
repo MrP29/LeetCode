@@ -87,6 +87,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Java](./Math/Java/7_Reverse_Integer.java) | _O(log(x))_ | _O(1)_ | Easy | Top Interview Questions | 
 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Java](./Math/Java/9_Palindrome_Number.java) | _O(log(n))_ | _O(1)_ | Easy | | 
+0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Java](./Math/Java/412_Fizz_Buzz.java) | _O(N)_ | _O(1)_ | Easy | Top Interview Questions | HashMap
 
 <br/>
 <div align="right">
@@ -193,6 +194,7 @@
 0078 | [Subsets](https://leetcode.com/problems/subsets/)
 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)
 0204 | [Count Primes](https://leetcode.com/problems/count-primes/)
