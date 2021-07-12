@@ -74,7 +74,7 @@
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./String/Java/242_Valid_Anagram.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Array, Sort, Hash Table
 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/)| [Java](./String/Java/344_Reverse_String.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointer, Iteration
 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [Java](./String/Java/387_First_Unique_Character_in_a_String.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Array, Hash Table
-0398 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)| [Java](./String/Java/398_Find_the_Difference.java) | _O(N)_ | _O(1)_ | Easy | | Array, Hash Table, Bit Manipulation
+0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)| [Java](./String/Java/389_Find_the_Difference.java) | _O(N)_ | _O(1)_ | Easy | | Array, Hash Table, Bit Manipulation
 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [Java](./String/Java/557_Reverse_Words_in_a_String_III.java) | _O(n)_ | _O(n)_ | Easy | Array and String |
 
 <br/>
