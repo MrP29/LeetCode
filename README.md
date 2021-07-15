@@ -69,6 +69,7 @@
 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Java](./String/Java/20_Valid_Parentheses.java) | _O(n)_ | _O(1)_ | Easy |  | Stack, Hash Table
 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [Java](./String/Java/28_Implement_strStr().java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | 
 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/)| [Java](./String/Java/38_Count_and_Say.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Recursion, Regex
+0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [Java](./String/Java/49_Group_Anagrams.java) | _O(NMlogM)_ | _O(NM)_ | Medium | | Hash Table
 0067 | [Add Binary](https://leetcode.com/problems/add-binary/)| [Java](./String/Java/67_Add_Binary.java) | _O(Max(n, m)_ | _O(Max(n, m)_ | Easy | Array and String | 
 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Java](./String/Java/125_Valid_Palindrome.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointer, Reverse String
 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [Java](./String/Java/151_Reverse_Words_in_a_String.java) | _O(n)_ | _O(n)_ | Medium | Array and String | 
