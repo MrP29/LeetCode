@@ -12,6 +12,7 @@
 * [Dynamic Programming](https://github.com/MrP29/LeetCode/tree/main/Dynamic_Programming)
 * [Queue](https://github.com/MrP29/LeetCode/tree/main/Queue)
 * [Stack](https://github.com/MrP29/LeetCode/tree/main/Stack)
+* [Database](https://github.com/MrP29/LeetCode/tree/main/Database)
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
@@ -184,6 +185,17 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0155 | [Min Stack](https://leetcode.com/problems/min-stack/)| [Java](./Stack/Java/155_Min_Stack.java) | _O(N)_ | _O(N)_ | Easy | Top Inverview Questions | 
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Database
+|  #  | Title           |  Solution       | | | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | | | ------------- |--------------|-----|
+0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| [Java](./Stack/Java/182_Duplicate_Emails.java) | | | Easy | | 
 
 <br/>
 <div align="right">
