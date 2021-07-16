@@ -90,6 +90,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Java](./Math/Java/7_Reverse_Integer.java) | _O(log(x))_ | _O(1)_ | Easy | Top Interview Questions | 
 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Java](./Math/Java/9_Palindrome_Number.java) | _O(log(n))_ | _O(1)_ | Easy | | 
+0204 | [Count Primes](https://leetcode.com/problems/count-primes/)| [Java](./Math/Java/204_Count_Prime.java) | _O(sqrt(N)log(log(N)))_ | _O(N)_ | Easy | Top Interview Questions | 
 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Java](./Math/Java/412_Fizz_Buzz.java) | _O(N)_ | _O(1)_ | Easy | Top Interview Questions | HashMap
 
 <br/>
