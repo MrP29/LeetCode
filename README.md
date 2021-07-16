@@ -195,7 +195,7 @@
 ## Database
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
-0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| [Java](./Stack/Java/182_Duplicate_Emails.java) | | | Easy | | 
+0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| [SQL](./Database/SQL/182_Duplicate_Emails.java) | Easy | | 
 
 <br/>
 <div align="right">
