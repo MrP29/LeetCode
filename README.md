@@ -65,6 +65,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [Java](./String/Java/8_String_to_Integer_atoi.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | 
+0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [Java](./String/Java/12_Integer_to_Roman.java) | _O(1)_ | _O(1)_ | Easy | | 
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Java](./String/Java/13_Roman_to_Integer.java) | _O(n)_ | _O(1)_ | Easy | | Hash Table
 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [Java](./String/Java/14_Longest_Common_Prefix.java) | _O(s)_ | _O(1)_ | Easy | Top Interview Questions | 
 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Java](./String/Java/20_Valid_Parentheses.java) | _O(n)_ | _O(1)_ | Easy |  | Stack, Hash Table
