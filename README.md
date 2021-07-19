@@ -210,7 +210,6 @@
 |  #  | Title           |
 |-----|---------------- |
 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
-0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 0078 | [Subsets](https://leetcode.com/problems/subsets/)
 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
