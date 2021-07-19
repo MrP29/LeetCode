@@ -149,6 +149,7 @@
 ## Binary Search
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Java](./Binary_Search/Java/35_Search_Insert_Position.java) | _O(logN)_ | _O(1)_ | Easy | | Iteration
 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Java](./Binary_Search/Java/278_First_Bad_Version.java) | _O(logn)_ | _O(1)_ | Easy | Top Interview Questions | Iteration, Recursion
 
 <br/>
@@ -222,6 +223,7 @@
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
+0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 1281 | [Subtract the Product and Sum of DIgits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
