@@ -1,6 +1,7 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
 * May have errors in code or in description
 * Welcome to comments about errors :D
+* Notes: LeetCode premium subscription is required in order to see the question with 🔒
 
 ## Algorithms
 * [Array](https://github.com/MrP29/LeetCode/tree/main/Array)
@@ -40,6 +41,7 @@
 0384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)| [Java](./Array/Java/384_Shuffle_an_Array.java) | _O(N)_ | _O(1)_ | Medium | Top Interview Questions | Fisher-Yates Algorithm
 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)| [Java](./Array/Java/414_Third_Maximum_Number.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Hash Table, Tree
 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)| [Java](./Array/Java/448_Find_All_Numbers_Disappeared_in_an_Array.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Array, Hash Table
+0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)| [Java](./Array/Java/463_Island_Perimeter.java) | _O(NM)_ | _O(1)_ | Easy | |
 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [Java](./Array/Java/485_Max_Consecutive_Ones.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
 0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)| [Java](./Array/Java/498_Diagonal_Traverse.java) | _O(n*m)_ | _O(1)_ | Medium | Array and String | 
 0561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/)| [Java](./Array/Java/561_Array_Partition_I.java) | _O(n)_ | _O(n)_ | Easy | Array and String | 
@@ -216,7 +218,7 @@
 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)
-0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
+0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
