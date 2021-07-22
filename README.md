@@ -78,6 +78,7 @@
 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Java](./String/Java/125_Valid_Palindrome.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointer, Reverse String
 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [Java](./String/Java/151_Reverse_Words_in_a_String.java) | _O(n)_ | _O(n)_ | Medium | Array and String | 
 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)| [Java](./String/Java/168_Excel_Sheet_Column_Title.java) | _O(logN)_ | _O(1)_ | Easy | | Iteration, Recursion
+0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [Java](./String/Java/171_Excel_Sheet_Column_Number.java) | _O(N)_ | _O(1)_ | Easy | | Iteration
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./String/Java/242_Valid_Anagram.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Array, Sort, Hash Table
 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/)| [Java](./String/Java/344_Reverse_String.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointer, Iteration
 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [Java](./String/Java/387_First_Unique_Character_in_a_String.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Array, Hash Table
@@ -216,7 +217,6 @@
 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 0078 | [Subsets](https://leetcode.com/problems/subsets/)
 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
-0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)
@@ -224,6 +224,7 @@
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
