@@ -31,7 +31,6 @@
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Java](./Array/Java/118_Pascal's_Triangle.java) | _O(n^2)_ | _O(n^2)_ | Easy | Array and String |
 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [Java](./Array/Java/119_Pascal's_Triangle_II.java) | _O(n^2)_ | _O(n)_ | Easy | Array and String | Mathematics
 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Java](./Array/Java/122_Best_Time_to_Buy_and_Sell_Stock_II.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Simple One Pass
-0136 | [Single Number](https://leetcode.com/problems/single-number/)| [Java](./Array/Java/136_Single_Number.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Bit Manipulation
 0167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [Java](./Array/Java/167_Two_Sum_II.java) | _O(n)_ | _O(1)_ | Easy | Array and String | Two pointer
 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)| [Java](./Array/Java/189_Rotate_Array.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Reverse Array
 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| [Java](./Array/Java/209_Minimum_Size_Subarray_Sum.java) | _O(n)_ | _O(1)_ | Medium | Array and String | Two Pointer
@@ -40,6 +39,7 @@
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Java](./Array/Java/283_Move_Zeroes.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Two Pointer
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [Java](./Array/Java/350_Intersection_of_Two_Arrays_II.java) | _O(n)_ | _O(n1 + n2)_ | Easy | Top Interview Questions | Hash Table
 0384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)| [Java](./Array/Java/384_Shuffle_an_Array.java) | _O(N)_ | _O(1)_ | Medium | Top Interview Questions | Fisher-Yates Algorithm
+0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)| [Java](./Array/Java/389_Find_the_Difference.java) | _O(N)_ | _O(1)_ | Easy | | Array, Hash Table, Bit Manipulation
 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)| [Java](./Array/Java/414_Third_Maximum_Number.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Hash Table, Tree
 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)| [Java](./Array/Java/448_Find_All_Numbers_Disappeared_in_an_Array.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Array, Hash Table
 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)| [Java](./Array/Java/463_Island_Perimeter.java) | _O(NM)_ | _O(1)_ | Easy | |
@@ -83,7 +83,6 @@
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./String/Java/242_Valid_Anagram.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Array, Sort, Hash Table
 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/)| [Java](./String/Java/344_Reverse_String.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointer, Iteration
 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [Java](./String/Java/387_First_Unique_Character_in_a_String.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Array, Hash Table
-0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)| [Java](./String/Java/389_Find_the_Difference.java) | _O(N)_ | _O(1)_ | Easy | | Array, Hash Table, Bit Manipulation
 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [Java](./String/Java/557_Reverse_Words_in_a_String_III.java) | _O(n)_ | _O(n)_ | Easy | Array and String |
 
 <br/>
@@ -203,6 +202,7 @@
 ## Bit Manipulation
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0136 | [Single Number](https://leetcode.com/problems/single-number/)| [Java](./Bit_Manipulation/Java/136_Single_Number.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Bit Manipulation
 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./Bit_Manipulation/Java/191_Number_of_1_Bits.java) | _O(1)_ | _O(1)_ | Easy | Top Inverview Questions | 
 
 <br/>
