@@ -13,6 +13,7 @@
 * [Dynamic Programming](https://github.com/MrP29/LeetCode/tree/main/Dynamic_Programming)
 * [Queue](https://github.com/MrP29/LeetCode/tree/main/Queue)
 * [Stack](https://github.com/MrP29/LeetCode/tree/main/Stack)
+* [Bit Manipulation](https://github.com/MrP29/LeetCode/tree/main/Bit_Manipulation)
 * [Database](https://github.com/MrP29/LeetCode/tree/main/Database)
 
 ## Array
@@ -192,6 +193,17 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0155 | [Min Stack](https://leetcode.com/problems/min-stack/)| [Java](./Stack/Java/155_Min_Stack.java) | _O(N)_ | _O(N)_ | Easy | Top Inverview Questions | 
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Bit Manipulation
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./Bit_Manipulation/Java/191_Number_of_1_Bits.java) | _O(1)_ | _O(1)_ | Easy | Top Inverview Questions | 
 
 <br/>
 <div align="right">
