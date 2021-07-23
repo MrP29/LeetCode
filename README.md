@@ -39,7 +39,7 @@
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Java](./Array/Java/283_Move_Zeroes.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Two Pointer
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [Java](./Array/Java/350_Intersection_of_Two_Arrays_II.java) | _O(n)_ | _O(n1 + n2)_ | Easy | Top Interview Questions | Hash Table
 0384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)| [Java](./Array/Java/384_Shuffle_an_Array.java) | _O(N)_ | _O(1)_ | Medium | Top Interview Questions | Fisher-Yates Algorithm
-0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)| [Java](./Array/Java/389_Find_the_Difference.java) | _O(N)_ | _O(1)_ | Easy | | Array, Hash Table, Bit Manipulation
+0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)| [Java](./Array/Java/389_Find_the_Difference.java) | _O(N)_ | _O(1)_ | Easy | | Hash Table, Bit Manipulation
 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)| [Java](./Array/Java/414_Third_Maximum_Number.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Hash Table, Tree
 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)| [Java](./Array/Java/448_Find_All_Numbers_Disappeared_in_an_Array.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Array, Hash Table
 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)| [Java](./Array/Java/463_Island_Perimeter.java) | _O(NM)_ | _O(1)_ | Easy | |
@@ -202,7 +202,7 @@
 ## Bit Manipulation
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0136 | [Single Number](https://leetcode.com/problems/single-number/)| [Java](./Bit_Manipulation/Java/136_Single_Number.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Bit Manipulation
+0136 | [Single Number](https://leetcode.com/problems/single-number/)| [Java](./Bit_Manipulation/Java/136_Single_Number.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions |
 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./Bit_Manipulation/Java/191_Number_of_1_Bits.java) | _O(1)_ | _O(1)_ | Easy | Top Inverview Questions | 
 
 <br/>
@@ -233,6 +233,7 @@
 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
+0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
