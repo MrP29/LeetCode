@@ -232,6 +232,7 @@
 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)
+0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
