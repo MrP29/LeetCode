@@ -203,6 +203,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0136 | [Single Number](https://leetcode.com/problems/single-number/)| [Java](./Bit_Manipulation/Java/136_Single_Number.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions |
+0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [Java](./Bit_Manipulation/Java/190_Reverse_Bits.java) | _O(1)_ | _O(1)_ | Easy | Top Inverview Questions | 
 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./Bit_Manipulation/Java/191_Number_of_1_Bits.java) | _O(1)_ | _O(1)_ | Easy | Top Inverview Questions | 
 
 <br/>
@@ -234,6 +235,7 @@
 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)
 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
+0292 | [Nim Game](https://leetcode.com/problems/nim-game/)
 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
