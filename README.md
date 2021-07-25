@@ -205,6 +205,7 @@
 0136 | [Single Number](https://leetcode.com/problems/single-number/)| [Java](./Bit_Manipulation/Java/136_Single_Number.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions |
 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [Java](./Bit_Manipulation/Java/190_Reverse_Bits.java) | _O(1)_ | _O(1)_ | Easy | Top Inverview Questions | 
 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./Bit_Manipulation/Java/191_Number_of_1_Bits.java) | _O(1)_ | _O(1)_ | Easy | Top Inverview Questions | 
+0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/)| [Java](./Bit_Manipulation/Java/338_Counting_Bits.java) | _O(N)_ | _O(N)_ | Easy | Top Inverview Questions | 
 
 <br/>
 <div align="right">
@@ -231,7 +232,6 @@
 0078 | [Subsets](https://leetcode.com/problems/subsets/)
 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
-0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)
 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
