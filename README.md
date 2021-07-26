@@ -96,6 +96,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Java](./Math/Java/7_Reverse_Integer.java) | _O(log(x))_ | _O(1)_ | Easy | Top Interview Questions | 
 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Java](./Math/Java/9_Palindrome_Number.java) | _O(log(n))_ | _O(1)_ | Easy | | 
+0202 | [Happy Number](https://leetcode.com/problems/happy-number/)| [Java](./Math/Java/202_Happy_Number.java) | _O(log(N))_ | _O(1)_ | Easy | | Hash Table, Two Pointer
 0204 | [Count Primes](https://leetcode.com/problems/count-primes/)| [Java](./Math/Java/204_Count_Prime.java) | _O(sqrt(N)log(log(N)))_ | _O(N)_ | Easy | Top Interview Questions | 
 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/)| [Java](./Math/Java/326_Power_of_Three.java) | _O(1)_ | _O(1)_ | Easy | Top Interview Questions | Logarithms, Regex
 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Java](./Math/Java/412_Fizz_Buzz.java) | _O(N)_ | _O(1)_ | Easy | Top Interview Questions | HashMap
@@ -232,7 +233,6 @@
 0078 | [Subsets](https://leetcode.com/problems/subsets/)
 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
-0202 | [Happy Number](https://leetcode.com/problems/happy-number/)
 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 0292 | [Nim Game](https://leetcode.com/problems/nim-game/)
@@ -246,6 +246,7 @@
 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
+1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
 1281 | [Subtract the Product and Sum of DIgits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)
