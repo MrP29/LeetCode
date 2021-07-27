@@ -217,7 +217,8 @@
 ## Database
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
-0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| [SQL](./Database/SQL/182_Duplicate_Emails.sql) | Easy | | 
+0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [SQL](./Database/SQL/175_Combine_Two_Tables.sql) | Easy | | LEFT OUTER JOIN
+0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| [SQL](./Database/SQL/182_Duplicate_Emails.sql) | Easy | | Aggregate Function
 
 <br/>
 <div align="right">
@@ -245,6 +246,7 @@
 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
+1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
 1281 | [Subtract the Product and Sum of DIgits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
