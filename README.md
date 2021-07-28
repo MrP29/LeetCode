@@ -218,6 +218,7 @@
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [SQL](./Database/SQL/175_Combine_Two_Tables.sql) | Easy | | LEFT OUTER JOIN
+0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)| [SQL](./Database/SQL/181_Employees_Earning_More_Than_Their_Managers.sql) | Easy | | JOIN
 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| [SQL](./Database/SQL/182_Duplicate_Emails.sql) | Easy | | Aggregate Function
 
 <br/>
@@ -234,6 +235,7 @@
 0078 | [Subsets](https://leetcode.com/problems/subsets/)
 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+0176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 0292 | [Nim Game](https://leetcode.com/problems/nim-game/)
