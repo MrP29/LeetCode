@@ -232,6 +232,7 @@
 |-----|---------------- |
 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+0055 | [Jump Game](https://leetcode.com/problems/jump-game/)
 0078 | [Subsets](https://leetcode.com/problems/subsets/)
 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
