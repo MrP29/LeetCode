@@ -221,6 +221,7 @@
 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)| [SQL](./Database/SQL/181_Employees_Earning_More_Than_Their_Managers.sql) | Easy | | JOIN
 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| [SQL](./Database/SQL/182_Duplicate_Emails.sql) | Easy | | Aggregate Function
 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [SQL](./Database/SQL/196_Delete_Duplicate_Emails.sql) | Easy | | 
+0511 | [🔒Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)| [SQL](./Database/SQL/511_Game_Play_Analysis_I.sql) | Easy | | Aggregate Function, GROUP BY
 
 <br/>
 <div align="right">
