@@ -245,6 +245,8 @@
 0292 | [Nim Game](https://leetcode.com/problems/nim-game/)
 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+0512 | [🔒Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/)
+0577 | [🔒Employee Bonus](https://leetcode.com/problems/employee-bonus/)
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
