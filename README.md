@@ -36,6 +36,7 @@
 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| [Java](./Array/Java/209_Minimum_Size_Subarray_Sum.java) | _O(n)_ | _O(1)_ | Medium | Array and String | Two Pointer
 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Java](./Array/Java/217_Contains_Duplicate.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Hash Table
 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [Java](./Array/Java/219_Contains_Duplicate_II.java) | _O(n)_ | _O(n)_ | Easy || Hash Table
+0268 | [Missing Number](https://leetcode.com/problems/missing-number/)| [Java](./Array/Java/268_Missing_Number.java) | _O(N)_ | _O(1)_ | Easy || Sorting, Array, Hash Table, Bit Manipulation, Mathmatics
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Java](./Array/Java/283_Move_Zeroes.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Two Pointer
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [Java](./Array/Java/350_Intersection_of_Two_Arrays_II.java) | _O(n)_ | _O(n1 + n2)_ | Easy | Top Interview Questions | Hash Table
 0384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)| [Java](./Array/Java/384_Shuffle_an_Array.java) | _O(N)_ | _O(1)_ | Medium | Top Interview Questions | Fisher-Yates Algorithm
@@ -242,6 +243,7 @@
 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
+0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 0292 | [Nim Game](https://leetcode.com/problems/nim-game/)
 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
