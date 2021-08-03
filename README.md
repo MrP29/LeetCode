@@ -224,6 +224,7 @@
 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| [SQL](./Database/SQL/182_Duplicate_Emails.sql) | Easy | | Aggregate Function
 0183 | [Customers_Who_Never_Order](https://leetcode.com/problems/customers-who-never-order/)| [SQL](./Database/SQL/183_Customers_Who_Never_Order.sql) | Easy | | LEFT JOIN, NOT IN
 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [SQL](./Database/SQL/196_Delete_Duplicate_Emails.sql) | Easy | | 
+0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/)| [SQL](./Database/SQL/197_Rising_Temperature.sql) | Easy | | JOIN
 0511 | [🔒Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)| [SQL](./Database/SQL/511_Game_Play_Analysis_I.sql) | Easy | | Aggregate Function, GROUP BY
 
 <br/>
