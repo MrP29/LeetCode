@@ -25,6 +25,7 @@
 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [Java](./Array/Java/26_Remove_Duplicates_from_Sorted_Array.java) | _O(1)_ | _O(1)_ | Medium | Top Interview Questions | Hash Table
 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| [Java](./Array/Java/48_Rotate_Image.java) | _O(M)_ | _O(1)_         | Medium | Top Interview Questions | Iteration, Matrix
 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [Java](./Array/Java/54_Spiral_Matrix.java) | _O(n*m)_ | _O(n*m)_         | Medium | Array and String | 
+0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Java](./Array/Java/64_Minimum_Path_Sum.java) | _O(NM)_ | _O(1)_ | Medium | | Dynamic Programming
 0066 | [Plus One](https://leetcode.com/problems/plus-one/)| [Java](./Array/Java/66_Plus_One.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Iteration
 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/)| [Java](./Array/Java/75_Sort_Colors.java) | _O(N)_ | _O(1)_ | Medium | | Two Pointer
 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Java](./Array/Java/88_Merge_Sorted_Array.java) | _O(n+m)_ | _O(1)_ | Easy | Arrays 101 | Three Pointer
@@ -240,7 +241,6 @@
 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 0055 | [Jump Game](https://leetcode.com/problems/jump-game/)
 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
-0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 0078 | [Subsets](https://leetcode.com/problems/subsets/)
 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
