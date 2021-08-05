@@ -82,6 +82,7 @@
 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [Java](./String/Java/151_Reverse_Words_in_a_String.java) | _O(n)_ | _O(n)_ | Medium | Array and String | 
 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)| [Java](./String/Java/168_Excel_Sheet_Column_Title.java) | _O(logN)_ | _O(1)_ | Easy | | Iteration, Recursion
 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [Java](./String/Java/171_Excel_Sheet_Column_Number.java) | _O(N)_ | _O(1)_ | Easy | | Iteration
+0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [Java](./String/Java/205_Isomorphic_Strings.java) | _O(N)_ | _O(1)_ | Easy | | Hash Table
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./String/Java/242_Valid_Anagram.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Array, Sort, Hash Table
 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/)| [Java](./String/Java/344_Reverse_String.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointer, Iteration
 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [Java](./String/Java/387_First_Unique_Character_in_a_String.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Array, Hash Table
@@ -243,8 +244,6 @@
 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 0078 | [Subsets](https://leetcode.com/problems/subsets/)
 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
-0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
-0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 0292 | [Nim Game](https://leetcode.com/problems/nim-game/)
