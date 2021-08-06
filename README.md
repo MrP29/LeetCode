@@ -27,6 +27,7 @@
 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [Java](./Array/Java/54_Spiral_Matrix.java) | _O(n*m)_ | _O(n*m)_         | Medium | Array and String | 
 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Java](./Array/Java/64_Minimum_Path_Sum.java) | _O(NM)_ | _O(1)_ | Medium | | Dynamic Programming
 0066 | [Plus One](https://leetcode.com/problems/plus-one/)| [Java](./Array/Java/66_Plus_One.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Iteration
+0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [Java](./Array/Java/73_Set_Matrix_Zeroes.java) | _O(NM)_ | _O(1)_ | Medium | Top Interview Questions | Hash Table
 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/)| [Java](./Array/Java/75_Sort_Colors.java) | _O(N)_ | _O(1)_ | Medium | | Two Pointer
 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Java](./Array/Java/88_Merge_Sorted_Array.java) | _O(n+m)_ | _O(1)_ | Easy | Arrays 101 | Three Pointer
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Java](./Array/Java/118_Pascal's_Triangle.java) | _O(n^2)_ | _O(n^2)_ | Easy | Array and String |
