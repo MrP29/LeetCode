@@ -267,6 +267,7 @@
 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)
 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)
+1877 | [Minimize Maxium Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
 
 <br/>
 <div align="right">
