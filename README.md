@@ -231,6 +231,7 @@
 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [SQL](./Database/SQL/196_Delete_Duplicate_Emails.sql) | Easy | | 
 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/)| [SQL](./Database/SQL/197_Rising_Temperature.sql) | Easy | | JOIN
 0511 | [🔒Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)| [SQL](./Database/SQL/511_Game_Play_Analysis_I.sql) | Easy | | Aggregate Function, GROUP BY
+0512 | [🔒Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/)| [SQL](./Database/SQL/512_Game_Play_Analysis_II.sql) | Easy | | Sub Query
 
 <br/>
 <div align="right">
