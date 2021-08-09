@@ -22,7 +22,7 @@
 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./Array/Java/1_Two_Sum.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Hash Table
 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./Array/Java/26_Remove_Duplicates_from_Sorted_Array.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointer
 0027 | [Remove Element](https://leetcode.com/problems/remove-element/)| [Java](./Array/Java/27_Remove_Element.java) | _O(n)_ | _O(1)_ | Easy || Two Pointer
-0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [Java](./Array/Java/26_Remove_Duplicates_from_Sorted_Array.java) | _O(1)_ | _O(1)_ | Medium | Top Interview Questions | Hash Table
+0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [Java](./Array/Java/36_Valid_Sudoku.java) | _O(1)_ | _O(1)_ | Medium | Top Interview Questions | Hash Table
 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| [Java](./Array/Java/48_Rotate_Image.java) | _O(M)_ | _O(1)_         | Medium | Top Interview Questions | Iteration, Matrix
 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [Java](./Array/Java/54_Spiral_Matrix.java) | _O(n*m)_ | _O(n*m)_         | Medium | Array and String | 
 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Java](./Array/Java/64_Minimum_Path_Sum.java) | _O(NM)_ | _O(1)_ | Medium | | Dynamic Programming
@@ -267,7 +267,8 @@
 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
 1281 | [Subtract the Product and Sum of DIgits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
-1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)
+1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
+1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)
 1877 | [Minimize Maxium Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
 
