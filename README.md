@@ -252,6 +252,7 @@
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 0292 | [Nim Game](https://leetcode.com/problems/nim-game/)
+0415 | [Add Strings](https://leetcode.com/problems/add-strings/)
 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 0512 | [🔒Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/)
