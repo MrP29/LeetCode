@@ -232,6 +232,7 @@
 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/)| [SQL](./Database/SQL/197_Rising_Temperature.sql) | Easy | | JOIN
 0511 | [🔒Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)| [SQL](./Database/SQL/511_Game_Play_Analysis_I.sql) | Easy | | Aggregate Function, GROUP BY
 0512 | [🔒Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/)| [SQL](./Database/SQL/512_Game_Play_Analysis_II.sql) | Easy | | Sub Query
+0577 | [🔒Employee Bonus](https://leetcode.com/problems/employee-bonus/)| [SQL](./Database/SQL/577_Employee_Bonus.sql) | Easy | | LEFT OUTER, WHERE
 
 <br/>
 <div align="right">
@@ -255,8 +256,6 @@
 0415 | [Add Strings](https://leetcode.com/problems/add-strings/)
 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
-0512 | [🔒Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/)
-0577 | [🔒Employee Bonus](https://leetcode.com/problems/employee-bonus/)
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
