@@ -262,6 +262,7 @@
 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
+0954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)
 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
