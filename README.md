@@ -214,6 +214,7 @@
 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [Java](./Bit_Manipulation/Java/190_Reverse_Bits.java) | _O(1)_ | _O(1)_ | Easy | Top Inverview Questions | 
 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./Bit_Manipulation/Java/191_Number_of_1_Bits.java) | _O(1)_ | _O(1)_ | Easy | Top Inverview Questions | 
 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/)| [Java](./Bit_Manipulation/Java/338_Counting_Bits.java) | _O(N)_ | _O(N)_ | Easy | Top Inverview Questions | 
+0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)| [Java](./Bit_Manipulation/Java/461_Hamming_Distance.java) | _O(1)_ | _O(1)_ | Easy | | 
 
 <br/>
 <div align="right">
@@ -254,8 +255,6 @@
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 0292 | [Nim Game](https://leetcode.com/problems/nim-game/)
-0415 | [Add Strings](https://leetcode.com/problems/add-strings/)
-0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
