@@ -71,6 +71,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Java](./String/Java/3_Longest_Substring_Without_Repeating_Characters.java) | _O(N)_ | _O(1)_ | Medium | Top Interview Questions | Array, Hash Table
+0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [Java](./String/Java/5_Longest_Palindromic_Substring.java) | _O(N^2)_ | _O(1)_ | Medium | Top Interview Questions | 
 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [Java](./String/Java/8_String_to_Integer_atoi.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | 
 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [Java](./String/Java/12_Integer_to_Roman.java) | _O(1)_ | _O(1)_ | Easy | | 
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Java](./String/Java/13_Roman_to_Integer.java) | _O(n)_ | _O(1)_ | Easy | | Hash Table
