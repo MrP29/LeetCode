@@ -122,6 +122,7 @@
 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Java](./Linked-list/Java/2_Add_Two_Numbers.java) | _O(Max(n, m))_ | _O(Max(n, m))_ | Medium | Linked List | 
 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Java](./Linked-list/Java/19_Remove_Nth_Node_From_End_of_List.java) | _O(n)_ | _O(1)_ | Medium | Top Interview Questions | 
 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Java](./Linked-list/Java/21_Merge_Two_Sorted_Lists.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Iteration, Recursion
+0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Java](./Linked-list/Java/24_Swap_Nodes_in_Pairs.java) | _O(N)_ | _O(1)_ | Medium | | Iteration, Recursion
 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/)| [Java](./Linked-list/Java/61_Rotate_List.java) | _O(n)_ | _O(1)_ | Medium || 
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [Java](./Linked-list/Java/138_Copy_List_with_Random_Pointer.java) | _O(N)_ | _O(N)_ | Medium | Linked List | Iteration, Recursion, HashMap
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Java](./Linked-list/Java/141_Linked_List_Cycle.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointer
@@ -248,7 +249,6 @@
 |  #  | Title           |
 |-----|---------------- |
 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
-0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 0055 | [Jump Game](https://leetcode.com/problems/jump-game/)
 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 0078 | [Subsets](https://leetcode.com/problems/subsets/)
