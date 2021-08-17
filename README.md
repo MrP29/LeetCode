@@ -204,6 +204,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0155 | [Min Stack](https://leetcode.com/problems/min-stack/)| [Java](./Stack/Java/155_Min_Stack.java) | _O(N)_ | _O(N)_ | Easy | Top Inverview Questions | 
+0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [Java](./Stack/Java/739_Daily_Temperatures.java) | _O(N)_ | _O(N)_ | Medium | | 
 
 <br/>
 <div align="right">
@@ -258,7 +259,6 @@
 0292 | [Nim Game](https://leetcode.com/problems/nim-game/)
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
-0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
