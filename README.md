@@ -264,6 +264,7 @@
 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 0954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)
 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
