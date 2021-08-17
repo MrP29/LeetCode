@@ -30,6 +30,7 @@
 0066 | [Plus One](https://leetcode.com/problems/plus-one/)| [Java](./Array/Java/66_Plus_One.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Iteration
 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [Java](./Array/Java/73_Set_Matrix_Zeroes.java) | _O(NM)_ | _O(1)_ | Medium | Top Interview Questions | Hash Table
 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/)| [Java](./Array/Java/75_Sort_Colors.java) | _O(N)_ | _O(1)_ | Medium | | Two Pointer
+0078 | [Subsets](https://leetcode.com/problems/subsets/)| [Java](./Array/Java/78_Subsets.java) | _O(2^N)_ | _O(2^N)_ | Medium | | Recursion, Bit Manipulation
 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Java](./Array/Java/88_Merge_Sorted_Array.java) | _O(n+m)_ | _O(1)_ | Easy | Arrays 101 | Three Pointer
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Java](./Array/Java/118_Pascal's_Triangle.java) | _O(n^2)_ | _O(n^2)_ | Easy | Array and String |
 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [Java](./Array/Java/119_Pascal's_Triangle_II.java) | _O(n^2)_ | _O(n)_ | Easy | Array and String | Mathematics
@@ -251,7 +252,6 @@
 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 0055 | [Jump Game](https://leetcode.com/problems/jump-game/)
 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
-0078 | [Subsets](https://leetcode.com/problems/subsets/)
 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
