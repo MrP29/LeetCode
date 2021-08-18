@@ -155,6 +155,7 @@
 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [Java](./Tree/Java/110_Balanced_Binary_Tree.java) | _O(n)_ | _O(n)_ | Easy | | Recursion
 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Java](./Tree/Java/144_Binary_Tree_Preorder_Traversal.java) | _O(n)_ | _O(n)_ | Easy | Binary Tree | Iteration
 0145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Java](./Tree/Java/145_Binary_Tree_Postorder_Traversal.java) | _O(n)_ | _O(n)_ | Easy | Binary Tree | Iteration
+0700| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Java](./Tree/Java/700_Search_in_a_Binary_Search_Tree.java) | _O(H)_ | _O(1)_ | Easy | | Iteration, Recursion
 
 <br/>
 <div align="right">
@@ -258,7 +259,6 @@
 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 0292 | [Nim Game](https://leetcode.com/problems/nim-game/)
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
-0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
@@ -273,6 +273,7 @@
 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)
+1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)
 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)
 1877 | [Minimize Maxium Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
 
