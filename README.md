@@ -259,6 +259,7 @@
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+0807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
