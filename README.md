@@ -51,6 +51,7 @@
 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [Java](./Array/Java/485_Max_Consecutive_Ones.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
 0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)| [Java](./Array/Java/498_Diagonal_Traverse.java) | _O(n*m)_ | _O(1)_ | Medium | Array and String | 
 0561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/)| [Java](./Array/Java/561_Array_Partition_I.java) | _O(n)_ | _O(n)_ | Easy | Array and String | 
+0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)| [Java](./Array/Java/605_Can_Place_Flowers.java) | _O(N)_ | _O(1)_ | Easy | | 
 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [Java](./Array/Java/724_Find_Pivot_Index.java) | _O(n)_ | _O(1)_ | Easy | Array and String | 
 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)| [Java](./Array/Java/747_Largest_Number_At_Least_Twice_of_Others.java) | _O(n)_ | _O(1)_ | Easy | Array and String | 
 0807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)| [Java](./Array/Java/807_Max_Increase_to_Keep_City_Skyline.java) | _O(N^2)_ | _O(N)_ | Medium | | 
@@ -260,7 +261,6 @@
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
-0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
