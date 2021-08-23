@@ -53,6 +53,7 @@
 0561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/)| [Java](./Array/Java/561_Array_Partition_I.java) | _O(n)_ | _O(n)_ | Easy | Array and String | 
 0599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)| [Java](./Array/Java/599_Minimum_Index_Sum_of_Two_Lists.java) | _O(Max(N, M))_ | _O(Max(N, M))_ | Easy | | Hash Table, Array List 
 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)| [Java](./Array/Java/605_Can_Place_Flowers.java) | _O(N)_ | _O(1)_ | Easy | | 
+0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)| [Java](./Array/Java/645_Set_Mismatch.java) | _O(N)_ | _O(1)_ | Easy | | Hash Table, Bit Manipulation, Array
 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [Java](./Array/Java/724_Find_Pivot_Index.java) | _O(n)_ | _O(1)_ | Easy | Array and String | 
 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)| [Java](./Array/Java/747_Largest_Number_At_Least_Twice_of_Others.java) | _O(n)_ | _O(1)_ | Easy | Array and String | 
 0807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)| [Java](./Array/Java/807_Max_Increase_to_Keep_City_Skyline.java) | _O(N^2)_ | _O(N)_ | Medium | | 
