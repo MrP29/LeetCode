@@ -49,6 +49,7 @@
 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)| [Java](./Array/Java/448_Find_All_Numbers_Disappeared_in_an_Array.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Array, Hash Table
 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)| [Java](./Array/Java/463_Island_Perimeter.java) | _O(NM)_ | _O(1)_ | Easy | |
 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [Java](./Array/Java/485_Max_Consecutive_Ones.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
+0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)| [Java](./Array/Java/496_Next_Greater_Element_I.java) | _O(N)_ | _O(N)_ | Easy | | Stack, Hash Table
 0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)| [Java](./Array/Java/498_Diagonal_Traverse.java) | _O(n*m)_ | _O(1)_ | Medium | Array and String | 
 0561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/)| [Java](./Array/Java/561_Array_Partition_I.java) | _O(n)_ | _O(n)_ | Easy | Array and String | 
 0599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)| [Java](./Array/Java/599_Minimum_Index_Sum_of_Two_Lists.java) | _O(Max(N, M))_ | _O(Max(N, M))_ | Easy | | Hash Table, Array List 
@@ -262,7 +263,6 @@
 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
