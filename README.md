@@ -26,6 +26,7 @@
 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [Java](./Array/Java/36_Valid_Sudoku.java) | _O(1)_ | _O(1)_ | Medium | Top Interview Questions | Hash Table
 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| [Java](./Array/Java/48_Rotate_Image.java) | _O(M)_ | _O(1)_         | Medium | Top Interview Questions | Iteration, Matrix
 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [Java](./Array/Java/54_Spiral_Matrix.java) | _O(n*m)_ | _O(n*m)_         | Medium | Array and String | 
+0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)| [Java](./Array/Java/59_Spiral_Matrix_II.java) | _O(N^2)_ | _O(1)_ | Medium | | 
 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Java](./Array/Java/64_Minimum_Path_Sum.java) | _O(NM)_ | _O(1)_ | Medium | | Dynamic Programming
 0066 | [Plus One](https://leetcode.com/problems/plus-one/)| [Java](./Array/Java/66_Plus_One.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Iteration
 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [Java](./Array/Java/73_Set_Matrix_Zeroes.java) | _O(NM)_ | _O(1)_ | Medium | Top Interview Questions | Hash Table
@@ -260,7 +261,6 @@
 |  #  | Title           |
 |-----|---------------- |
 0055 | [Jump Game](https://leetcode.com/problems/jump-game/)
-0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
