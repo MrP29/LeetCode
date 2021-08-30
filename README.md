@@ -66,6 +66,7 @@
 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [Java](./Array/Java/977_Squares_of_a_Sorted_Array.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Two Pointer
 1051 | [Height Checker](https://leetcode.com/problems/height-checker/)| [Java](./Array/Java/1051_Height_Checker.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Array, Sort
 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)| [Java](./Array/Java/1089_Duplicate_Zeros.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
+1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)| [Java](./Array/Java/1260_Shift_2D_Grid.java) | _O(NM)_ | _O(NM)_ | Easy | | 
 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)| [Java](./Array/Java/1295_Find_Numbers_with_Even_Number_of_Digits.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)| [Java](./Array/Java/1295_Find_Numbers_with_Even_Number_of_Digits.java) | _O(n^2)_ | _O(1)_ | Easy | Arrays 101 | 
 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)| [Java](./Array/Java/1346_Check_If_N_and_Its_Double_Exist.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Hash Table
@@ -273,7 +274,6 @@
 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
-1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
 1281 | [Subtract the Product and Sum of DIgits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
