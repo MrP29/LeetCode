@@ -31,12 +31,11 @@ class Solution {
         if(head == null || head.next == null)
             return head;
         
-        ListNode firstNode = head;
-        ListNode secondNode = head.next;
+        ListNode second = head.next;
         
-        firstNode.next = swapPairs(secondNode.next);
-        secondNode.next = firstNode;
+        head.next = swapPairs(second.next);
+        second.next = head;
         
-        return secondNode;
+        return second;
     }
 }
