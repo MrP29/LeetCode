@@ -165,10 +165,11 @@
 0105 | [Construct Binary Tree from Preoder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Java](./Tree/Java/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java) | _O(N)_ | _O(N)_ | Medium | Top Interview Questions | Recursion, Hash Table
 0106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [Java](./Tree/Java/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java) | _O(N)_ | _O(N)_ | Medium | Binary Tree | Recursion, Hash Table
 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [Java](./Tree/Java/108_Convert_Sorted_Array_to_Binary_Search_Tree.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Recursion
+0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [Java](./Tree/Java/109_Convert_Sorted_List_to_Binary_Search_Tree.java) | _O(N)_ | _O(N)_ | Medium | | Recursion, ArrayList
 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [Java](./Tree/Java/110_Balanced_Binary_Tree.java) | _O(n)_ | _O(n)_ | Easy | | Recursion
 0112 | [Path Sum](https://leetcode.com/problems/path-sum/)| [Java](./Tree/Java/112_Path_Sum.java) | _O(N)_ | _O(N)_ | Easy | | Recursion, Iteration
 0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [Java](./Tree/Java/116_Populating_Next_Right_Pointers_in_Each_Node.java) | _O(N)_ | _O(N)_ | Medium | Top Interview Questions | Queue
-0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [Java](./Tree/Java/117_Populating_Next_Right_Pointers_in_Each_Node_II.java) | _O(N)_ | _O(N)_ | Medium | | Queue
+0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [Java](./Tree/Java/117_Populating_Next_Right_Pointers_in_Each_Node_II.java) | _O(N)_ | _O(N)_ | Medium | Binary Tree | Queue
 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Java](./Tree/Java/144_Binary_Tree_Preorder_Traversal.java) | _O(n)_ | _O(n)_ | Easy | Binary Tree | Iteration
 0145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Java](./Tree/Java/145_Binary_Tree_Postorder_Traversal.java) | _O(n)_ | _O(n)_ | Easy | Binary Tree | Iteration
 0230| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Java](./Tree/Java/230_Kth_Smallest_Element_in_a_BST.java) | _O(N)_ | _O(N)_ | Medium | Top Interview Questions | Stack, Iteration, Recursion
@@ -271,7 +272,6 @@
 |-----|---------------- |
 0055 | [Jump Game](https://leetcode.com/problems/jump-game/)
 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
-0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
