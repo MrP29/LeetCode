@@ -1,4 +1,4 @@
-//Time: O(n^2) Space: O(n)
+//Iteration (Time: O(N^2) Space: O(N))
 class Solution {
     public List<Integer> getRow(int rowIndex) {
         List<Integer> ans = new ArrayList<>();
@@ -14,7 +14,7 @@ class Solution {
     }
 }
 
-//Time: O(n^2) Space: O(n)
+//Iteration (Time: O(N^2) Space: O(N))
 class Solution {
     public List<Integer> getRow(int rowIndex) {
         List<Integer> ans = new ArrayList<>();
@@ -40,7 +40,34 @@ class Solution {
     }
 }
 
-//Mathematical calculation by LeetCode (Time: O(n) Space: O(n))
+//Recursion with Dynamic Programming (Time: O(N^2) Space: O(N))
+class Solution {
+    int[][] dp;
+    
+    public List<Integer> getRow(int rowIndex) {
+        dp = new int[rowIndex + 1][rowIndex + 1];
+        List<Integer> list = new ArrayList();
+        
+        for(int i = 0; i <= rowIndex; i++)
+            list.add(helper(rowIndex, i));
+        
+        return list;
+    }
+    
+    private int helper(int row, int col) {
+        if(col == 0 || col == row)
+            return 1;
+        
+        if(dp[row][col] != 0)
+            return dp[row][col];
+        
+        dp[row][col] = helper(row - 1, col - 1) + helper(row - 1, col);
+        
+        return dp[row][col];
+    }
+}
+
+//Mathematical calculation by LeetCode (Time: O(N) Space: O(N))
 //Pascal's rule
 class Solution {
   public List<Integer> getRow(int n) {

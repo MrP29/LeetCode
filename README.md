@@ -34,7 +34,7 @@
 0078 | [Subsets](https://leetcode.com/problems/subsets/)| [Java](./Array/Java/78_Subsets.java) | _O(2^N)_ | _O(2^N)_ | Medium | | Recursion, Bit Manipulation
 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Java](./Array/Java/88_Merge_Sorted_Array.java) | _O(n+m)_ | _O(1)_ | Easy | Arrays 101 | Three Pointer
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Java](./Array/Java/118_Pascal's_Triangle.java) | _O(n^2)_ | _O(n^2)_ | Easy | Array and String |
-0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [Java](./Array/Java/119_Pascal's_Triangle_II.java) | _O(n^2)_ | _O(n)_ | Easy | Array and String | Mathematics
+0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [Java](./Array/Java/119_Pascal's_Triangle_II.java) | _O(N^2)_ | _O(N)_ | Easy | Array and String | Iteration, Recursion, Mathematics
 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Java](./Array/Java/122_Best_Time_to_Buy_and_Sell_Stock_II.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Simple One Pass
 0167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [Java](./Array/Java/167_Two_Sum_II.java) | _O(n)_ | _O(1)_ | Easy | Array and String | Two pointer
 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)| [Java](./Array/Java/189_Rotate_Array.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Reverse Array
