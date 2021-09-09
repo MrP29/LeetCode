@@ -224,7 +224,7 @@
 ## Stack
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0155 | [Min Stack](https://leetcode.com/problems/min-stack/)| [Java](./Stack/Java/155_Min_Stack.java) | _O(N)_ | _O(N)_ | Easy | Top Inverview Questions | 
+0155 | [Min Stack](https://leetcode.com/problems/min-stack/)| [Java](./Stack/Java/155_Min_Stack.java) | _O(N)_ | _O(N)_ | Easy | Top Interview Questions | 
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [Java](./Stack/Java/739_Daily_Temperatures.java) | _O(N)_ | _O(N)_ | Medium | | 
 
 <br/>
@@ -237,9 +237,9 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0136 | [Single Number](https://leetcode.com/problems/single-number/)| [Java](./Bit_Manipulation/Java/136_Single_Number.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions |
-0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [Java](./Bit_Manipulation/Java/190_Reverse_Bits.java) | _O(1)_ | _O(1)_ | Easy | Top Inverview Questions | 
-0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./Bit_Manipulation/Java/191_Number_of_1_Bits.java) | _O(1)_ | _O(1)_ | Easy | Top Inverview Questions | 
-0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/)| [Java](./Bit_Manipulation/Java/338_Counting_Bits.java) | _O(N)_ | _O(N)_ | Easy | Top Inverview Questions | 
+0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [Java](./Bit_Manipulation/Java/190_Reverse_Bits.java) | _O(1)_ | _O(1)_ | Easy | Top Interview Questions | 
+0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./Bit_Manipulation/Java/191_Number_of_1_Bits.java) | _O(1)_ | _O(1)_ | Easy | Top Interview Questions | 
+0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/)| [Java](./Bit_Manipulation/Java/338_Counting_Bits.java) | _O(N)_ | _O(N)_ | Easy | Top Interview Questions | 
 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)| [Java](./Bit_Manipulation/Java/461_Hamming_Distance.java) | _O(1)_ | _O(1)_ | Easy | | 
 
 <br/>
