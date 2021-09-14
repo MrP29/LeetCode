@@ -243,6 +243,7 @@
 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./Bit_Manipulation/Java/191_Number_of_1_Bits.java) | _O(1)_ | _O(1)_ | Easy | Top Interview Questions | 
 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/)| [Java](./Bit_Manipulation/Java/338_Counting_Bits.java) | _O(N)_ | _O(N)_ | Easy | Top Interview Questions | 
 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)| [Java](./Bit_Manipulation/Java/461_Hamming_Distance.java) | _O(1)_ | _O(1)_ | Easy | | 
+0779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)| [Java](./Bit_Manipulation/Java/779_K-th_Symbol_in_Grammar.java) | _O(logN)_ | _O(1)_ | Medium | Recursion I | 
 
 <br/>
 <div align="right">
