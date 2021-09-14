@@ -104,6 +104,7 @@
 0415 | [Add Strings](https://leetcode.com/problems/add-strings/)| [Java](./String/Java/415_Add_Strings.java) | _O(Max(N1, N2))_ | _O(Max(N1, N2)))_ | Easy | | 
 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)| [Java](./String/Java/451_Sort_Characters_By_Frequency.java) | _O(NlogN)_ | _O(N)_ | Medium | | Array, Hash Table, Bucket Sort
 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [Java](./String/Java/557_Reverse_Words_in_a_String_III.java) | _O(n)_ | _O(n)_ | Easy | Array and String |
+1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [Java](./String/Java/1189_Maximum_Number_of_Balloons.java) | _O(N)_ | _O(1)_ | Easy | | Array
 
 <br/>
 <div align="right">
