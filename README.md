@@ -24,6 +24,7 @@
 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./Array/Java/26_Remove_Duplicates_from_Sorted_Array.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Two Pointer
 0027 | [Remove Element](https://leetcode.com/problems/remove-element/)| [Java](./Array/Java/27_Remove_Element.java) | _O(n)_ | _O(1)_ | Easy || Two Pointer
 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [Java](./Array/Java/36_Valid_Sudoku.java) | _O(1)_ | _O(1)_ | Medium | Top Interview Questions | Hash Table
+0046 | [Permutations](https://leetcode.com/problems/permutations/)| [Java](./Array/Java/46_Permutations.java) | _O(N!)_ | _O(N!)_ | Medium | Top Interview Questions | Backtrack
 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| [Java](./Array/Java/48_Rotate_Image.java) | _O(M)_ | _O(1)_         | Medium | Top Interview Questions | Iteration, Matrix
 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [Java](./Array/Java/54_Spiral_Matrix.java) | _O(n*m)_ | _O(n*m)_         | Medium | Array and String | 
 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)| [Java](./Array/Java/59_Spiral_Matrix_II.java) | _O(N^2)_ | _O(1)_ | Medium | | 
