@@ -282,6 +282,7 @@
 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+0495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
 0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/)
 0848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
