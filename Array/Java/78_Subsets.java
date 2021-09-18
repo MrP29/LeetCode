@@ -4,23 +4,16 @@ class Solution {
         List<List<Integer>> list = new ArrayList<List<Integer>>();
         list.add(new ArrayList<Integer>());
         
-        for(int i = 0; i < nums.length; i++) {
-            int val = nums[i];
+        for(int n: nums) {
             int length = list.size();
 
             for(int j = 0; j < length; j++) {
-                List<Integer> arr = new ArrayList<>();
-                copyArr(arr, list.get(j));
-                arr.add(val);
+                List<Integer> arr = new ArrayList(list.get(j));
+                arr.add(n);
                 list.add(arr);
             }
-        }
+        } 
         return list;
-    }
-    
-    private void copyArr(List<Integer> arr, List<Integer> prev) {
-        for(int i = 0; i < prev.size(); i++)
-            arr.add(prev.get(i));
     }
 }
 
@@ -46,16 +39,18 @@ class Solution {
 //Recursion by LeetCode (Time: O(2^N) Space: O(N))
 class Solution {
     List<List<Integer>> list = new ArrayList();
+    int[] nums;
     int index;
     
     public List<List<Integer>> subsets(int[] nums) {
-        for(index = 0; index < nums.length + 1; ++index)
-            backtrack(0, new ArrayList<Integer>(), nums);
+        this.nums = nums;
+        for(index = 0; index <= nums.length; ++index)
+            backtrack(0, new ArrayList<Integer>());
         
         return list;
     }
     
-    private void backtrack(int first, ArrayList<Integer> cur, int[] nums) {
+    private void backtrack(int first, ArrayList<Integer> cur) {
         if(cur.size() == index) {
             list.add(new ArrayList(cur));
             return;
@@ -63,7 +58,7 @@ class Solution {
         
         for(int i = first; i < nums.length; ++i) {
             cur.add(nums[i]);
-            backtrack(i + 1, cur, nums);
+            backtrack(i + 1, cur);
             cur.remove(cur.size() - 1);
         }
     }
