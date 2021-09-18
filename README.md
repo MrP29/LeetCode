@@ -191,6 +191,7 @@
 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Java](./Binary_Search/Java/35_Search_Insert_Position.java) | _O(logN)_ | _O(1)_ | Easy | | Iteration
 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [Java](./Binary_Search/Java/69_Sqrt(x).java) | _O(logN)_ | _O(1)_ | Easy | Binary Search | Iteration, Recursion, Bit Manipulation
 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Java](./Binary_Search/Java/278_First_Bad_Version.java) | _O(logn)_ | _O(1)_ | Easy | Top Interview Questions | Iteration, Recursion
+0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [Java](./Binary_Search/Java/374_Guess_Number_Higher_or_Lower.java) | _O(logN)_ | _O(1)_ | Easy | Binary Search | Iteration, Recursion, Ternary Search
 0704 | [Binary Search](https://leetcode.com/problems/binary-search/)| [Java](./Binary_Search/Java/704_Binary_Search.java) | _O(logN)_ | _O(1)_ | Easy | Binary Search | Iteration, Recursion
 
 <br/>
