@@ -192,6 +192,7 @@
 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Java](./Binary_Search/Java/33_Search_in_Rotated_Sorted_Array.java) | _O(logN)_ | _O(1)_ | Medium | Binary Search | Iteration, Recursion
 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Java](./Binary_Search/Java/35_Search_Insert_Position.java) | _O(logN)_ | _O(1)_ | Easy | | Iteration
 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [Java](./Binary_Search/Java/69_Sqrt(x).java) | _O(logN)_ | _O(1)_ | Easy | Binary Search | Iteration, Recursion, Bit Manipulation
+0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [Java](./Binary_Search/Java/153_Find_Minimum_in_Rotated_Sorted_Array.java) | _O(logN)_ | _O(1)_ | Medium | Binary Search | Iteration
 0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)| [Java](./Binary_Search/Java/162_Find_Peak_Element.java) | _O(logN)_ | _O(1)_ | Medium | Binary Search | Iteration, Recursion
 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Java](./Binary_Search/Java/278_First_Bad_Version.java) | _O(logn)_ | _O(1)_ | Easy | Top Interview Questions | Iteration, Recursion
 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [Java](./Binary_Search/Java/374_Guess_Number_Higher_or_Lower.java) | _O(logN)_ | _O(1)_ | Easy | Binary Search | Iteration, Recursion, Ternary Search
