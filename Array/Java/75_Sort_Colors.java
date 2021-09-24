@@ -40,8 +40,9 @@ class Solution {
             } else {
                 second %= nums.length;
                 while(first < nums.length) {
-                inputColor(nums, count, first++);
-                inputColor(nums, count, second++); 
+                    inputColor(nums, count, first++);
+                    inputColor(nums, count, second++);
+                }
             }
         }
     }
