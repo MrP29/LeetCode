@@ -312,6 +312,7 @@
 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)
 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)
 1877 | [Minimize Maxium Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
+1992 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/)
 
 <br/>
 <div align="right">
