@@ -13,7 +13,7 @@
  *     }
  * }
  */
-//Recursion (Time: O(n) Space: O(n))
+//Recursion (Time: O(N) Space: O(N))
 class Solution {
     public boolean isSymmetric(TreeNode root) {
         return isSymmetric(root.left, root.right);
@@ -30,7 +30,7 @@ class Solution {
     }
 }
 
-//Iteration (Time: O(n) Space: O(n))
+//DFS Iteration (Time: O(N) Space: O(N))
 class Solution {
     public boolean isSymmetric(TreeNode root) {
         Stack<TreeNode> nodes = new Stack<>();
@@ -51,6 +51,36 @@ class Solution {
                 leftNode = nodes.pop();
                 rightNode = nodes.pop();
             }
+        }
+        return true;
+    }
+}
+
+//BFS Iteration (Time: O(N) Space: O(N))
+class Solution {
+    public boolean isSymmetric(TreeNode root) {
+        Queue<TreeNode> queue = new LinkedList();
+        
+        queue.add(root.left);
+        queue.add(root.right);
+        
+        while(!queue.isEmpty()) {
+            TreeNode left = queue.remove();
+            TreeNode right = queue.remove();
+            
+            if(left == null && right == null)
+                continue;
+            
+            if((left == null && right != null) || (left != null && right == null))
+                return false;
+            
+            if(left.val != right.val)
+                return false;
+            
+            queue.add(left.left);
+            queue.add(right.right);
+            queue.add(left.right);
+            queue.add(right.left);
         }
         return true;
     }

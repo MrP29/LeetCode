@@ -163,7 +163,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Java](./Tree/Java/94_Binary_Tree_Inorder_Traversal.java) | _O(n)_ | _O(n)_ | Easy | Binary Tree | Iteration, Recursion
 0098 | [Validate_Binary_Search_Tree](https://leetcode.com/problems/validate-binary-search-tree/)| [Java](./Tree/Java/98_Validate_Binary_Search_Tree.java) | _O(n)_ | _O(n)_ | Medium | Top Interview Questions | Iteration, Recursion
-0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [Java](./Tree/Java/101_Symmetric_Tree.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Iteration, Recursion
+0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [Java](./Tree/Java/101_Symmetric_Tree.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | DFS, BFS, Iteration, Recursion
 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [Java](./Tree/Java/102_Binary_Tree_Level_Order_Traversal.java) | _O(n)_ | _O(n)_ | Medium | Top Interview Questions | Iteration, Recursion
 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Java](./Tree/Java/103_Binary_Tree_Zigzag_Level_Order_Traversal.java) | _O(N)_ | _O(logN)_ | Medium | Top Interview Questions | Iteration, Recursion
 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Java](./Tree/Java/104_Maximum_Depth_of_Binary_Tree.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Recursion, Iteration
