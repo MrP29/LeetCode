@@ -198,6 +198,7 @@
 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [Java](./Binary_Search/Java/153_Find_Minimum_in_Rotated_Sorted_Array.java) | _O(logN)_ | _O(1)_ | Medium | Binary Search | Iteration
 0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)| [Java](./Binary_Search/Java/162_Find_Peak_Element.java) | _O(logN)_ | _O(1)_ | Medium | Binary Search | Iteration, Recursion
 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Java](./Binary_Search/Java/278_First_Bad_Version.java) | _O(logn)_ | _O(1)_ | Easy | Top Interview Questions | Iteration, Recursion
+0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)| [Java](./Binary_Search/Java/367_Valid_Perfect_Square.java) | _O(logN)_ | _O(1)_ | Easy | Binary Search | Iteration, Mathematics
 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [Java](./Binary_Search/Java/374_Guess_Number_Higher_or_Lower.java) | _O(logN)_ | _O(1)_ | Easy | Binary Search | Iteration, Recursion, Ternary Search
 0658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)| [Java](./Binary_Search/Java/658_Find_K_Closest_Elements.java) | _O(logN)_ | _O(1)_ | Medium | Binary Search | Iteration
 0704 | [Binary Search](https://leetcode.com/problems/binary-search/)| [Java](./Binary_Search/Java/704_Binary_Search.java) | _O(logN)_ | _O(1)_ | Easy | Binary Search | Iteration, Recursion
