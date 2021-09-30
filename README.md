@@ -48,6 +48,7 @@
 0268 | [Missing Number](https://leetcode.com/problems/missing-number/)| [Java](./Array/Java/268_Missing_Number.java) | _O(N)_ | _O(1)_ | Easy || Sorting, Array, Hash Table, Bit Manipulation, Mathmatics
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Java](./Array/Java/283_Move_Zeroes.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Two Pointer
 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [Java](./Array/Java/347_Top_K_Frequent_Elements.java) | _O(N)_ | _O(N)_ | Medium | Top Interview Questions | Quick Select, Hash Table, Priority Queue, Tree Map
+0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Java](./Array/Java/349_Intersection_of_Two_Arrays.java) | _O(N + M)_ | _O(1)_ | Easy | Binary Search | Hash Table
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [Java](./Array/Java/350_Intersection_of_Two_Arrays_II.java) | _O(n)_ | _O(n1 + n2)_ | Easy | Top Interview Questions | Hash Table
 0384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)| [Java](./Array/Java/384_Shuffle_an_Array.java) | _O(N)_ | _O(1)_ | Medium | Top Interview Questions | Fisher-Yates Algorithm
 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)| [Java](./Array/Java/389_Find_the_Difference.java) | _O(N)_ | _O(1)_ | Easy | | Hash Table, Bit Manipulation
