@@ -205,6 +205,7 @@
 0658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)| [Java](./Binary_Search/Java/658_Find_K_Closest_Elements.java) | _O(logN)_ | _O(1)_ | Medium | Binary Search | Iteration
 0704 | [Binary Search](https://leetcode.com/problems/binary-search/)| [Java](./Binary_Search/Java/704_Binary_Search.java) | _O(logN)_ | _O(1)_ | Easy | Binary Search | Iteration, Recursion
 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)| [Java](./Binary_Search/Java/744_Find_Smallest_Letter_Greater_Than_Target.java) | _O(logN)_ | _O(1)_ | Easy | Binary Search | Iteration
+1901 | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)| [Java](./Binary_Search/Java/1901_Find_a_Peak_Element_II.java) | _O(NlogM)_ | _O(1)_ | Medium | | Iteration
 
 <br/>
 <div align="right">
