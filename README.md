@@ -26,7 +26,8 @@
 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [Java](./Array/Java/36_Valid_Sudoku.java) | _O(1)_ | _O(1)_ | Medium | Top Interview Questions | Hash Table
 0046 | [Permutations](https://leetcode.com/problems/permutations/)| [Java](./Array/Java/46_Permutations.java) | _O(N!)_ | _O(N!)_ | Medium | Top Interview Questions | Backtrack
 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| [Java](./Array/Java/48_Rotate_Image.java) | _O(M)_ | _O(1)_         | Medium | Top Interview Questions | Iteration, Matrix
-0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [Java](./Array/Java/54_Spiral_Matrix.java) | _O(n*m)_ | _O(n*m)_         | Medium | Array and String | 
+0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [Java](./Array/Java/54_Spiral_Matrix.java) | _O(n*m)_ | _O(n*m)_ | Medium | Array and String | 
+0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [Java](./Array/Java/56_Merge_Intervals.java) | _O(NlogN)_ | _O(N)_ | Medium | Top Interview Questions | Sorting, Tree
 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)| [Java](./Array/Java/59_Spiral_Matrix_II.java) | _O(N^2)_ | _O(1)_ | Medium | | 
 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Java](./Array/Java/64_Minimum_Path_Sum.java) | _O(NM)_ | _O(1)_ | Medium | | Dynamic Programming
 0066 | [Plus One](https://leetcode.com/problems/plus-one/)| [Java](./Array/Java/66_Plus_One.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Iteration
