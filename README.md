@@ -48,6 +48,7 @@
 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [Java](./Array/Java/219_Contains_Duplicate_II.java) | _O(n)_ | _O(n)_ | Easy || Hash Table
 0268 | [Missing Number](https://leetcode.com/problems/missing-number/)| [Java](./Array/Java/268_Missing_Number.java) | _O(N)_ | _O(1)_ | Easy || Sorting, Array, Hash Table, Bit Manipulation, Mathmatics
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Java](./Array/Java/283_Move_Zeroes.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Two Pointer
+0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| [Java](./Array/Java/287_Find_the_Duplicate_Number.java) | _O(N)_ | _O(1)_ | Medium | Binary Search | Two Pointer, Hash Table, Bit Manipulation, Binary Search
 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [Java](./Array/Java/347_Top_K_Frequent_Elements.java) | _O(N)_ | _O(N)_ | Medium | Top Interview Questions | Quick Select, Hash Table, Priority Queue, Tree Map
 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Java](./Array/Java/349_Intersection_of_Two_Arrays.java) | _O(N + M)_ | _O(1)_ | Easy | Binary Search | Hash Table
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [Java](./Array/Java/350_Intersection_of_Two_Arrays_II.java) | _O(n)_ | _O(n1 + n2)_ | Easy | Top Interview Questions | Hash Table
@@ -298,7 +299,6 @@
 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
-0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 0495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)
