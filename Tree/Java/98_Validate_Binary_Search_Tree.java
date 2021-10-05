@@ -13,7 +13,7 @@
  *     }
  * }
  */
-//Iteration (Time: O(n) Space: O(n))
+//Iterative Inorder (Time: O(N) Space: O(N))
 class Solution {
     public boolean isValidBST(TreeNode root) {
         Stack<TreeNode> stack = new Stack<>();
@@ -35,8 +35,31 @@ class Solution {
     }
 }
 
-//Solutions by LeetCode
-//Recursive Comparison (Time: O(n) Space: O(n))
+//Recursive Inorder by LeetCode (Time: O(N) Space: O(N))
+class Solution {
+    private Integer prev;
+
+    public boolean isValidBST(TreeNode root) {
+        prev = null;
+        return inorder(root);
+    }
+
+    private boolean inorder(TreeNode root) {
+        if (root == null) {
+            return true;
+        }
+        if (!inorder(root.left)) {
+            return false;
+        }
+        if (prev != null && root.val <= prev) {
+            return false;
+        }
+        prev = root.val;
+        return inorder(root.right);
+    }
+}
+
+//Recursive Comparison by LeetCode (Time: O(N) Space: O(N))
 class Solution {
     public boolean isValidBST(TreeNode root) {
         return validate(root, null, null);
@@ -51,7 +74,7 @@ class Solution {
     }
 }
 
-//Iterative Comparison (Time: O(n) Space: O(n))
+//Iterative Comparison by LeetCode (Time: O(N) Space: O(N))
 class Solution {
     private Deque<TreeNode> stack = new LinkedList();
     private Deque<Integer> upperLimits = new LinkedList();
@@ -84,29 +107,5 @@ class Solution {
             update(root.left, low, val);
         }
         return true;
-    }
-}
-
-//Recursive Inorder (Time: O(n) Space: O(n))
-class Solution {
-    private Integer prev;
-
-    public boolean isValidBST(TreeNode root) {
-        prev = null;
-        return inorder(root);
-    }
-
-    private boolean inorder(TreeNode root) {
-        if (root == null) {
-            return true;
-        }
-        if (!inorder(root.left)) {
-            return false;
-        }
-        if (prev != null && root.val <= prev) {
-            return false;
-        }
-        prev = root.val;
-        return inorder(root.right);
     }
 }
