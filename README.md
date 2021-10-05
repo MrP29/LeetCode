@@ -183,6 +183,7 @@
 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [Java](./Tree/Java/117_Populating_Next_Right_Pointers_in_Each_Node_II.java) | _O(N)_ | _O(N)_ | Medium | Binary Tree | Queue
 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Java](./Tree/Java/144_Binary_Tree_Preorder_Traversal.java) | _O(n)_ | _O(n)_ | Easy | Binary Tree | Iteration
 0145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Java](./Tree/Java/145_Binary_Tree_Postorder_Traversal.java) | _O(n)_ | _O(n)_ | Easy | Binary Tree | Iteration
+0173| [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)| [Java](./Tree/Java/173_Binary_Search_Tree_Iterator.java) | _O(N)_ | _O(N)_ | Medium | Binary Search Tree | Iteration, Recursion, Stack, Array
 0230| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Java](./Tree/Java/230_Kth_Smallest_Element_in_a_BST.java) | _O(N)_ | _O(N)_ | Medium | Top Interview Questions | Stack, Iteration, Recursion
 0700| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Java](./Tree/Java/700_Search_in_a_Binary_Search_Tree.java) | _O(H)_ | _O(1)_ | Easy | | Iteration, Recursion
 
