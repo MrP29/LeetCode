@@ -185,7 +185,8 @@
 0145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Java](./Tree/Java/145_Binary_Tree_Postorder_Traversal.java) | _O(n)_ | _O(n)_ | Easy | Binary Tree | Iteration
 0173| [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)| [Java](./Tree/Java/173_Binary_Search_Tree_Iterator.java) | _O(N)_ | _O(N)_ | Medium | Binary Search Tree | Iteration, Recursion, Stack, Array
 0230| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Java](./Tree/Java/230_Kth_Smallest_Element_in_a_BST.java) | _O(N)_ | _O(N)_ | Medium | Top Interview Questions | Stack, Iteration, Recursion
-0700| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Java](./Tree/Java/700_Search_in_a_Binary_Search_Tree.java) | _O(H)_ | _O(1)_ | Easy | | Iteration, Recursion
+0700| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Java](./Tree/Java/700_Search_in_a_Binary_Search_Tree.java) | _O(H)_ | _O(1)_ | Easy | Binary Search Tree | Iteration, Recursion
+0701| [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| [Java](./Tree/Java/701_Insert_into_a_Binary_Search_Tree.java) | _O(H)_ | _O(1)_ | Medium | Binary Search Tree | Iteration, Recursion
 
 <br/>
 <div align="right">
