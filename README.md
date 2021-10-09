@@ -47,6 +47,7 @@
 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [Java](./Array/Java/215_Kth_Largest_Element_in_an_Array.java) | _O(N)_ | _O(1)_ | Medium | Top Interview Questions | Quick Select, Priority Queue, Sort
 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Java](./Array/Java/217_Contains_Duplicate.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Hash Table
 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [Java](./Array/Java/219_Contains_Duplicate_II.java) | _O(n)_ | _O(n)_ | Easy || Hash Table
+0240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [Java](./Array/Java/240_Search_a_2D_Matrix_II.java) | _O(N)_ | _O(1)_ | Medium | Top Interview Questions | Divide and Conquer, Binary Search
 0268 | [Missing Number](https://leetcode.com/problems/missing-number/)| [Java](./Array/Java/268_Missing_Number.java) | _O(N)_ | _O(1)_ | Easy || Sorting, Array, Hash Table, Bit Manipulation, Mathmatics
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Java](./Array/Java/283_Move_Zeroes.java) | _O(n)_ | _O(n)_ | Easy | Top Interview Questions | Two Pointer
 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| [Java](./Array/Java/287_Find_the_Duplicate_Number.java) | _O(N)_ | _O(1)_ | Medium | Binary Search | Two Pointer, Hash Table, Bit Manipulation, Binary Search
@@ -302,6 +303,7 @@
 |-----|---------------- |
 0055 | [Jump Game](https://leetcode.com/problems/jump-game/)
 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 0134 | [Gas Station](https://leetcode.com/problems/gas-station/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
