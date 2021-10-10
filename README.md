@@ -12,6 +12,7 @@
 * [Tree](https://github.com/MrP29/LeetCode/tree/main/Tree)
 * [Binary Search](https://github.com/MrP29/LeetCode/tree/main/Binary_Search)
 * [Dynamic Programming](https://github.com/MrP29/LeetCode/tree/main/Dynamic_Programming)
+* [Greedy](https://github.com/MrP29/LeetCode/tree/main/Greedy)
 * [Queue](https://github.com/MrP29/LeetCode/tree/main/Queue)
 * [Stack](https://github.com/MrP29/LeetCode/tree/main/Stack)
 * [Bit Manipulation](https://github.com/MrP29/LeetCode/tree/main/Bit_Manipulation)
