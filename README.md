@@ -237,6 +237,17 @@
 </div>
 <br/>
 
+## Greedy
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0055 | [Jump Game](https://leetcode.com/problems/jump-game/)| [Java](./Greedy/Java/55_Jump_Game.java) | _O(N)_ | _O(1)_ | Medium | Top Interview Questions | Dynamic Programming
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## Queue
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
