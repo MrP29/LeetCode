@@ -323,6 +323,7 @@
 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 0495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)
+0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
 0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/)
 0848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
