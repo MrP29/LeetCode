@@ -61,6 +61,7 @@
 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)| [Java](./Array/Java/448_Find_All_Numbers_Disappeared_in_an_Array.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Array, Hash Table
 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)| [Java](./Array/Java/463_Island_Perimeter.java) | _O(NM)_ | _O(1)_ | Easy | |
 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [Java](./Array/Java/485_Max_Consecutive_Ones.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
+0495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)| [Java](./Array/Java/495_Teemo_Attacking.java) | _O(N)_ | _O(1)_ | Easy | | 
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)| [Java](./Array/Java/496_Next_Greater_Element_I.java) | _O(N)_ | _O(N)_ | Easy | | Stack, Hash Table
 0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)| [Java](./Array/Java/498_Diagonal_Traverse.java) | _O(n*m)_ | _O(1)_ | Medium | Array and String | 
 0561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/)| [Java](./Array/Java/561_Array_Partition_I.java) | _O(n)_ | _O(n)_ | Easy | Array and String | 
@@ -321,7 +322,6 @@
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
-0495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)
 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
