@@ -15,6 +15,7 @@
 * [Greedy](https://github.com/MrP29/LeetCode/tree/main/Greedy)
 * [Queue](https://github.com/MrP29/LeetCode/tree/main/Queue)
 * [Stack](https://github.com/MrP29/LeetCode/tree/main/Stack)
+* [Depth-First Search](https://github.com/MrP29/LeetCode/tree/main/Depth_First_Search)
 * [Bit Manipulation](https://github.com/MrP29/LeetCode/tree/main/Bit_Manipulation)
 * [Database](https://github.com/MrP29/LeetCode/tree/main/Database)
 
@@ -268,6 +269,17 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0155 | [Min Stack](https://leetcode.com/problems/min-stack/)| [Java](./Stack/Java/155_Min_Stack.java) | _O(N)_ | _O(N)_ | Easy | Top Interview Questions | 
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [Java](./Stack/Java/739_Daily_Temperatures.java) | _O(N)_ | _O(N)_ | Medium | | 
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Depth-First Search
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| [Java](./Stack/Java/841_Keys_and_Rooms.java) | _O(N)_ | _O(N)_ | Medium | | 
 
 <br/>
 <div align="right">
