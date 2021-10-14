@@ -83,6 +83,7 @@
 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)| [Java](./Array/Java/1295_Find_Numbers_with_Even_Number_of_Digits.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)| [Java](./Array/Java/1295_Find_Numbers_with_Even_Number_of_Digits.java) | _O(n^2)_ | _O(1)_ | Easy | Arrays 101 | 
 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)| [Java](./Array/Java/1346_Check_If_N_and_Its_Double_Exist.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Hash Table
+1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)| [Java](./Array/Java/1710_Maximum_Units_on_a_Truck.java) | _O(NlogN)_ | _O(1)_ | Easy | | Sorting, Priority Queue
 
 <br/>
 <div align="right">
@@ -356,7 +357,6 @@
 1605 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)
 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
-1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
 1743 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/)
 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)
 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)
