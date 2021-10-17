@@ -117,6 +117,7 @@
 0415 | [Add Strings](https://leetcode.com/problems/add-strings/)| [Java](./String/Java/415_Add_Strings.java) | _O(Max(N1, N2))_ | _O(Max(N1, N2)))_ | Easy | | 
 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)| [Java](./String/Java/451_Sort_Characters_By_Frequency.java) | _O(NlogN)_ | _O(N)_ | Medium | | Array, Hash Table, Bucket Sort
 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [Java](./String/Java/557_Reverse_Words_in_a_String_III.java) | _O(n)_ | _O(n)_ | Easy | Array and String |
+0848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/)| [Java](./String/Java/848_Shifting_Letters.java) | _O(N)_ | _O(N)_ | Medium | |
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)| [Java](./String/Java/856_Score_of_Parentheses.java) | _O(N)_ | _O(N)_ | Medium | | Stack, Divide and Conquer
 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [Java](./String/Java/1189_Maximum_Number_of_Balloons.java) | _O(N)_ | _O(1)_ | Easy | | Array
 
@@ -331,7 +332,6 @@
 |  #  | Title           |
 |-----|---------------- |
 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
-0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 0134 | [Gas Station](https://leetcode.com/problems/gas-station/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
@@ -341,7 +341,6 @@
 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
 0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/)
-0848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
 0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 0954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)
