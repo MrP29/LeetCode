@@ -208,6 +208,7 @@
 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Java](./Binary_Search/Java/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java) | _O(logN)_ | _O(1)_ | Medium | Binary Search | Iteration
 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Java](./Binary_Search/Java/35_Search_Insert_Position.java) | _O(logN)_ | _O(1)_ | Easy | | Iteration
 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [Java](./Binary_Search/Java/69_Sqrt(x).java) | _O(logN)_ | _O(1)_ | Easy | Binary Search | Iteration, Recursion, Bit Manipulation
+0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Java](./Binary_Search/Java/74_Search_a_2D_Matrix.java) | _O(logN)_ | _O(1)_ | Medium | Binary Search | Iteration
 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [Java](./Binary_Search/Java/81_Search_in_Rotated_Sorted_Array_II.java) | _O(N)_ | _O(1)_ | Medium | | Iteration
 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [Java](./Binary_Search/Java/153_Find_Minimum_in_Rotated_Sorted_Array.java) | _O(logN)_ | _O(1)_ | Medium | Binary Search | Iteration
 0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)| [Java](./Binary_Search/Java/162_Find_Peak_Element.java) | _O(logN)_ | _O(1)_ | Medium | Binary Search | Iteration, Recursion
@@ -331,7 +332,6 @@
 |-----|---------------- |
 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
-0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 0134 | [Gas Station](https://leetcode.com/problems/gas-station/)
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
