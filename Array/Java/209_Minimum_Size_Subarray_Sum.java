@@ -1,4 +1,4 @@
-//Two Pointer (Time: O(n) Space: O(1))
+//Two Pointer (Time: O(N) Space: O(1))
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
         int minLength = 100001;
@@ -19,7 +19,7 @@ class Solution {
     }
 }
 
-//Two Pointer (Time: O(n) Space: O(1))
+//Two Pointer (Time: O(N) Space: O(1))
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
         int minLength = 100001;
