@@ -286,6 +286,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| [Java](./Stack/Java/841_Keys_and_Rooms.java) | _O(N)_ | _O(N)_ | Medium | | 
+0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)| [Java](./Stack/Java/897_Increasing_Order_Search_Tree.java) | _O(N)_ | _O(H)_ | Easy | | In-Order
 
 <br/>
 <div align="right">
@@ -340,7 +341,6 @@
 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)
 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
-0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 0954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)
 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
