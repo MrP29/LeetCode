@@ -73,6 +73,7 @@
 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)| [Java](./Array/Java/747_Largest_Number_At_Least_Twice_of_Others.java) | _O(n)_ | _O(1)_ | Easy | Array and String | 
 0807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)| [Java](./Array/Java/807_Max_Increase_to_Keep_City_Skyline.java) | _O(N^2)_ | _O(N)_ | Medium | | 
 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)| [Java](./Array/Java/832_Flipping_an_Image.java) | _O(N)_ | _O(1)_ | Easy | | 
+0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/)| [Java](./Array/Java/846_Hand_of_Straights.java) | _O(NlogN)_ | _O(N)_ | Medium | | Hash Table
 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)| [Java](./Array/Java/860_Lemonade_Change.java) | _O(N)_ | _O(1)_ | Easy | | 
 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [Java](./Array/Java/905_Sort_Array_By_Parity.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | Sort
 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)| [Java](./Array/Java/941_Valid_Mountain_Array.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
@@ -339,8 +340,6 @@
 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)
 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
-0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
-0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/)
 0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 0954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)
