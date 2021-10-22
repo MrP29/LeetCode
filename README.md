@@ -262,6 +262,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)| [Java](./Queue/Java/622_Design_Circular_Queue.java) | _O(1)_ | _O(n)_ | Medium | Queue & Stack | 
+0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)| [Java](./Queue/Java/933_Number_of_Recent_Calls.java) | _O(1)_ | _O(1)_ | Easy | | Array, Binary Search
 0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)| [Java](./Queue/Java/950_Reveal_Cards_In_Increasing_Order.java) | _O(NlogN)_ | _O(N)_ | Medium | | Deque
 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)| [Java](./Queue/Java/1046_Last_Stone_Weight.java) | _O(NlogN)_ | _O(N)_ | Easy | | Priority Queue, Bucket Sort
 
@@ -342,7 +343,6 @@
 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)
 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
-0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 0954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)
 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
