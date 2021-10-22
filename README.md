@@ -17,6 +17,7 @@
 * [Stack](https://github.com/MrP29/LeetCode/tree/main/Stack)
 * [Depth-First Search](https://github.com/MrP29/LeetCode/tree/main/Depth_First_Search)
 * [Bit Manipulation](https://github.com/MrP29/LeetCode/tree/main/Bit_Manipulation)
+* [Design](https://github.com/MrP29/LeetCode/tree/main/Design)
 * [Database](https://github.com/MrP29/LeetCode/tree/main/Database)
 
 ## Array
@@ -312,6 +313,17 @@
 </div>
 <br/>
 
+## Design
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| [Java](./Design/Java/297_Serialize_and_Deserialize_Binary_Tree.java) | _O(N)_ | _O(N)_ | Hard | Top Interview Questions | BFS, DFS
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## Database
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
@@ -341,6 +353,7 @@
 0277 | [🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+0449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)
 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 0954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)
