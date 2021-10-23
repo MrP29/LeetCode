@@ -317,6 +317,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| [Java](./Design/Java/297_Serialize_and_Deserialize_Binary_Tree.java) | _O(N)_ | _O(N)_ | Hard | Top Interview Questions | BFS, DFS
+0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)| [Java](./Design/Java/380_Insert_Delete_GetRandom_O(1).java) | _O(1)_ | _O(1)_ | Medium | Top Interview Questions | Hash Table, Array
 
 <br/>
 <div align="right">
