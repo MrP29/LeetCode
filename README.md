@@ -15,6 +15,7 @@
 * [Greedy](https://github.com/MrP29/LeetCode/tree/main/Greedy)
 * [Queue](https://github.com/MrP29/LeetCode/tree/main/Queue)
 * [Stack](https://github.com/MrP29/LeetCode/tree/main/Stack)
+* [Heap](https://github.com/MrP29/LeetCode/tree/main/Heap)
 * [Depth-First Search](https://github.com/MrP29/LeetCode/tree/main/Depth_First_Search)
 * [Bit Manipulation](https://github.com/MrP29/LeetCode/tree/main/Bit_Manipulation)
 * [Design](https://github.com/MrP29/LeetCode/tree/main/Design)
@@ -279,6 +280,17 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0155 | [Min Stack](https://leetcode.com/problems/min-stack/)| [Java](./Stack/Java/155_Min_Stack.java) | _O(N)_ | _O(N)_ | Easy | Top Interview Questions | 
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [Java](./Stack/Java/739_Daily_Temperatures.java) | _O(N)_ | _O(N)_ | Medium | | 
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Heap
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)| [Java](./Heap/Java/703_Kth_Largest_Element_in_a_Stream.java) | _O(NlogK)_ | _O(K)_ | Easy | Binary Search Tree | 
 
 <br/>
 <div align="right">
