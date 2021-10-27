@@ -67,6 +67,7 @@
 0495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)| [Java](./Array/Java/495_Teemo_Attacking.java) | _O(N)_ | _O(1)_ | Easy | | 
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)| [Java](./Array/Java/496_Next_Greater_Element_I.java) | _O(N)_ | _O(N)_ | Easy | | Stack, Hash Table
 0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)| [Java](./Array/Java/498_Diagonal_Traverse.java) | _O(n*m)_ | _O(1)_ | Medium | Array and String | 
+0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)| [Java](./Array/Java/560_Subarray_Sum_Equals_K.java) | _O(N)_ | _O(N)_ | Medium | | Hash Table
 0561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/)| [Java](./Array/Java/561_Array_Partition_I.java) | _O(n)_ | _O(n)_ | Easy | Array and String | 
 0599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)| [Java](./Array/Java/599_Minimum_Index_Sum_of_Two_Lists.java) | _O(Max(N, M))_ | _O(Max(N, M))_ | Easy | | Hash Table, Array List 
 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)| [Java](./Array/Java/605_Can_Place_Flowers.java) | _O(N)_ | _O(1)_ | Easy | | 
