@@ -81,6 +81,7 @@
 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [Java](./Array/Java/905_Sort_Array_By_Parity.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | Sort
 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)| [Java](./Array/Java/941_Valid_Mountain_Array.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [Java](./Array/Java/977_Squares_of_a_Sorted_Array.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Two Pointer
+0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)| [Java](./Array/Java/997_Find_the_Town_Judge.java) | _O(E)_ | _O(N)_ | Easy | | 
 1051 | [Height Checker](https://leetcode.com/problems/height-checker/)| [Java](./Array/Java/1051_Height_Checker.java) | _O(n)_ | _O(n)_ | Easy | Arrays 101 | Array, Sort
 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)| [Java](./Array/Java/1089_Duplicate_Zeros.java) | _O(n)_ | _O(1)_ | Easy | Arrays 101 | 
 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)| [Java](./Array/Java/1200_Minimum_Absolute_Difference.java) | _O(NlogN)_ | _O(1)_ | Easy | | Sort
@@ -374,7 +375,6 @@
 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)
 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 0954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)
-0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
