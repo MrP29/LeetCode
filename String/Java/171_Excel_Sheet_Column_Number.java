@@ -11,7 +11,7 @@ class Solution {
     }
 }
 
-//Left to Right (Time: O(logN) Space: O(1)))
+//Left to Right (Time: O(N) Space: O(1)))
 class Solution {
     public int titleToNumber(String columnTitle) {
         int column = 0;
