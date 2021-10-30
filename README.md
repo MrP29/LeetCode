@@ -142,6 +142,7 @@
 0172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)| [Java](./Math/Java/172_Factorial_Trailing_Zeroes.java) | _O(logN)_ | _O(1)_ | Medium | Top Interview Questions | 
 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)| [Java](./Math/Java/202_Happy_Number.java) | _O(log(N))_ | _O(1)_ | Easy | | Hash Table, Two Pointer
 0204 | [Count Primes](https://leetcode.com/problems/count-primes/)| [Java](./Math/Java/204_Count_Prime.java) | _O(sqrt(N)log(log(N)))_ | _O(N)_ | Easy | Top Interview Questions | 
+0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)| [Java](./Math/Java/231_Power_of_Two.java) | _O(1)_ | _O(1)_ | Easy | | Bit Manipulation
 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)| [Java](./Math/Java/263_Ugly_Number.java) | _O(2^N)_ | _O(1)_ | Easy | | 
 0292 | [Nim Game](https://leetcode.com/problems/nim-game/)| [Java](./Math/Java/292_Nim_Game.java) | _O(1)_ | _O(1)_ | Easy | | 
 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/)| [Java](./Math/Java/326_Power_of_Three.java) | _O(1)_ | _O(1)_ | Easy | Top Interview Questions | Logarithms, Regex
