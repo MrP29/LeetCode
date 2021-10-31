@@ -22,6 +22,20 @@ class Solution {
     }
 }
 
+//Newton's Method by LeetCode (Time: O(logN) Space: O(1))
+class Solution {
+    public int mySqrt(int x) {
+        if(x < 2)
+            return x;
+        
+        long x0 = x / 2;
+        while(x0 * x0 > x)
+            x0 = (x0 + x / x0) / 2;
+        
+        return (int)x0;
+    }
+}
+
 //Recursion with Bit Manipulation by LeetCode (Time: O(logN) Space: O(logN))
 class Solution {
     public int mySqrt(int x) {
@@ -34,7 +48,7 @@ class Solution {
     }
 }
 
-//Calculator by LeetCode (Time: O(1) Space: O(1))
+//Calculator Algorithm by LeetCode (Time: O(1) Space: O(1))
 class Solution {
     public int mySqrt(int x) {
         if(x < 2)
