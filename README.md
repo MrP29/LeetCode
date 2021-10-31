@@ -217,7 +217,7 @@
 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Java](./Binary_Search/Java/33_Search_in_Rotated_Sorted_Array.java) | _O(logN)_ | _O(1)_ | Medium | Binary Search | Iteration, Recursion
 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Java](./Binary_Search/Java/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java) | _O(logN)_ | _O(1)_ | Medium | Binary Search | Iteration
 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Java](./Binary_Search/Java/35_Search_Insert_Position.java) | _O(logN)_ | _O(1)_ | Easy | | Iteration
-0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [Java](./Binary_Search/Java/69_Sqrt(x).java) | _O(logN)_ | _O(1)_ | Easy | Binary Search | Iteration, Recursion, Bit Manipulation
+0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [Java](./Binary_Search/Java/69_Sqrt(x).java) | _O(logN)_ | _O(1)_ | Easy | Binary Search | Iteration, Recursion, Bit Manipulation, Mathematics
 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Java](./Binary_Search/Java/74_Search_a_2D_Matrix.java) | _O(logN)_ | _O(1)_ | Medium | Binary Search | Iteration
 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [Java](./Binary_Search/Java/81_Search_in_Rotated_Sorted_Array_II.java) | _O(N)_ | _O(1)_ | Medium | | Iteration
 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [Java](./Binary_Search/Java/153_Find_Minimum_in_Rotated_Sorted_Array.java) | _O(logN)_ | _O(1)_ | Medium | Binary Search | Iteration
@@ -256,6 +256,7 @@
 ## Greedy
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [Java](./Greedy/Java/45_Jump_Game_II.java) | _O(N)_ | _O(1)_ | Medium | | 
 0055 | [Jump Game](https://leetcode.com/problems/jump-game/)| [Java](./Greedy/Java/55_Jump_Game.java) | _O(N)_ | _O(1)_ | Medium | Top Interview Questions | Dynamic Programming
 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)| [Java](./Greedy/Java/1029_Two_City_Scheduling.java) | _O(NlogN)_ | _O(1)_ | Medium | | 
 
@@ -366,7 +367,6 @@
 ## Not Uploaded Yet
 |  #  | Title           |
 |-----|---------------- |
-0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 0134 | [Gas Station](https://leetcode.com/problems/gas-station/)
 0227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
