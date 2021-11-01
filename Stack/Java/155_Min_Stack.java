@@ -16,10 +16,8 @@ class MinStack {
     }
     
     public void pop() {
-        if(min.peek() == stack.peek()) {
+        if(min.peek().equals(stack.pop()))
             min.pop();
-        }
-        stack.pop();
     }
     
     public int top() {
@@ -82,7 +80,7 @@ class MinStack {
 
     public void push(int x) {
         int minimum = stack.isEmpty() ? Integer.MAX_VALUE : stack.peek()[1];
-        stack.push(x, Math.min(x, minimum));
+        stack.push(new int[]{x, Math.min(x, minimum)});
     }
 
     public void pop() {
