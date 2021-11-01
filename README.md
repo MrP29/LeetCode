@@ -283,6 +283,7 @@
 ## Stack
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [Java](./Stack/Java/150_Evaluate_Reverse_Polish_Notation.java) | _O(N)_ | _O(N)_ | Medium | Queue & Stack | lambda functionality
 0155 | [Min Stack](https://leetcode.com/problems/min-stack/)| [Java](./Stack/Java/155_Min_Stack.java) | _O(N)_ | _O(N)_ | Easy | Top Interview Questions | 
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [Java](./Stack/Java/739_Daily_Temperatures.java) | _O(N)_ | _O(N)_ | Medium | | 
 
