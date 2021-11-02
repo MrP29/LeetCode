@@ -7,16 +7,16 @@
 ## Algorithms
 * [Array](https://github.com/MrP29/LeetCode/tree/main/Array)
 * [String](https://github.com/MrP29/LeetCode/tree/main/String)
-* [Math](https://github.com/MrP29/LeetCode/tree/main/Math)
 * [Linked List](https://github.com/MrP29/LeetCode/tree/main/Linked-list)
-* [Tree](https://github.com/MrP29/LeetCode/tree/main/Tree)
-* [Binary Search](https://github.com/MrP29/LeetCode/tree/main/Binary_Search)
-* [Dynamic Programming](https://github.com/MrP29/LeetCode/tree/main/Dynamic_Programming)
-* [Greedy](https://github.com/MrP29/LeetCode/tree/main/Greedy)
 * [Queue](https://github.com/MrP29/LeetCode/tree/main/Queue)
 * [Stack](https://github.com/MrP29/LeetCode/tree/main/Stack)
+* [Tree](https://github.com/MrP29/LeetCode/tree/main/Tree)
 * [Heap](https://github.com/MrP29/LeetCode/tree/main/Heap)
+* [Binary Search](https://github.com/MrP29/LeetCode/tree/main/Binary_Search)
 * [Depth-First Search](https://github.com/MrP29/LeetCode/tree/main/Depth_First_Search)
+* [Dynamic Programming](https://github.com/MrP29/LeetCode/tree/main/Dynamic_Programming)
+* [Greedy](https://github.com/MrP29/LeetCode/tree/main/Greedy)
+* [Math](https://github.com/MrP29/LeetCode/tree/main/Math)
 * [Bit Manipulation](https://github.com/MrP29/LeetCode/tree/main/Bit_Manipulation)
 * [Design](https://github.com/MrP29/LeetCode/tree/main/Design)
 * [Database](https://github.com/MrP29/LeetCode/tree/main/Database)
@@ -133,27 +133,6 @@
 </div>
 <br/>
 
-## Math
-|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Java](./Math/Java/7_Reverse_Integer.java) | _O(log(x))_ | _O(1)_ | Easy | Top Interview Questions | 
-0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Java](./Math/Java/9_Palindrome_Number.java) | _O(log(n))_ | _O(1)_ | Easy | | 
-0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Java](./Math/Java/50_Pow(x,n).java) | _O(logN)_ | _O(1)_ | Medium | Recursion I | Recursion, Iteration
-0172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)| [Java](./Math/Java/172_Factorial_Trailing_Zeroes.java) | _O(logN)_ | _O(1)_ | Medium | Top Interview Questions | 
-0202 | [Happy Number](https://leetcode.com/problems/happy-number/)| [Java](./Math/Java/202_Happy_Number.java) | _O(log(N))_ | _O(1)_ | Easy | | Hash Table, Two Pointer
-0204 | [Count Primes](https://leetcode.com/problems/count-primes/)| [Java](./Math/Java/204_Count_Prime.java) | _O(sqrt(N)log(log(N)))_ | _O(N)_ | Easy | Top Interview Questions | 
-0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)| [Java](./Math/Java/231_Power_of_Two.java) | _O(1)_ | _O(1)_ | Easy | | Bit Manipulation
-0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)| [Java](./Math/Java/263_Ugly_Number.java) | _O(2^N)_ | _O(1)_ | Easy | | 
-0292 | [Nim Game](https://leetcode.com/problems/nim-game/)| [Java](./Math/Java/292_Nim_Game.java) | _O(1)_ | _O(1)_ | Easy | | 
-0326 | [Power of Three](https://leetcode.com/problems/power-of-three/)| [Java](./Math/Java/326_Power_of_Three.java) | _O(1)_ | _O(1)_ | Easy | Top Interview Questions | Logarithms, Regex
-0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Java](./Math/Java/412_Fizz_Buzz.java) | _O(N)_ | _O(1)_ | Easy | Top Interview Questions | HashMap
-
-<br/>
-<div align="right">
-    <b><a href="#algorithms">⬆️ Back to Top</a></b>
-</div>
-<br/>
-
 ## Linked-list
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
@@ -173,6 +152,33 @@
 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)| [Java](./Linked-list/Java/328_Odd_Even_Linked_List.java) | _O(n)_ | _O(1)_ | Medium | Linked List | 
 0430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)| [Java](./Linked-list/Java/430_Flatten_a_Multilevel_Doubly_Linked_List.java) | _O(N)_ | _O(N)_ | Medium | Linked List | DFS, Iteration, Recursion
 0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/)| [Java](./Linked-list/Java/707_Design_Linked_List.java) | _O(1)_ | _O(1)_ | Medium | Linked List | 
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Queue
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)| [Java](./Queue/Java/622_Design_Circular_Queue.java) | _O(1)_ | _O(n)_ | Medium | Queue & Stack | 
+0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)| [Java](./Queue/Java/933_Number_of_Recent_Calls.java) | _O(1)_ | _O(1)_ | Easy | | Array, Binary Search
+0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)| [Java](./Queue/Java/950_Reveal_Cards_In_Increasing_Order.java) | _O(NlogN)_ | _O(N)_ | Medium | | Deque
+1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)| [Java](./Queue/Java/1046_Last_Stone_Weight.java) | _O(NlogN)_ | _O(N)_ | Easy | | Priority Queue, Bucket Sort
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Stack
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [Java](./Stack/Java/150_Evaluate_Reverse_Polish_Notation.java) | _O(N)_ | _O(N)_ | Medium | Queue & Stack | lambda functionality
+0155 | [Min Stack](https://leetcode.com/problems/min-stack/)| [Java](./Stack/Java/155_Min_Stack.java) | _O(N)_ | _O(N)_ | Easy | Top Interview Questions | 
+0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [Java](./Stack/Java/739_Daily_Temperatures.java) | _O(N)_ | _O(N)_ | Medium | | 
 
 <br/>
 <div align="right">
@@ -211,6 +217,17 @@
 </div>
 <br/>
 
+## Heap
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)| [Java](./Heap/Java/703_Kth_Largest_Element_in_a_Stream.java) | _O(NlogK)_ | _O(K)_ | Easy | Binary Search Tree | 
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## Binary Search
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
@@ -230,6 +247,19 @@
 0704 | [Binary Search](https://leetcode.com/problems/binary-search/)| [Java](./Binary_Search/Java/704_Binary_Search.java) | _O(logN)_ | _O(1)_ | Easy | Binary Search | Iteration, Recursion
 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)| [Java](./Binary_Search/Java/744_Find_Smallest_Letter_Greater_Than_Target.java) | _O(logN)_ | _O(1)_ | Easy | Binary Search | Iteration
 1901 | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)| [Java](./Binary_Search/Java/1901_Find_a_Peak_Element_II.java) | _O(NlogM)_ | _O(1)_ | Medium | | Iteration
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Depth-First Search
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)| [Java](./Stack/Java/236_Lowest_Common_Ancestor_of_a_Binary_Tree.java) | _O(N)_ | _O(N)_ | Medium | Binary Search Tree | 
+0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| [Java](./Stack/Java/841_Keys_and_Rooms.java) | _O(N)_ | _O(N)_ | Medium | | 
+0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)| [Java](./Stack/Java/897_Increasing_Order_Search_Tree.java) | _O(N)_ | _O(H)_ | Easy | | In-Order
 
 <br/>
 <div align="right">
@@ -266,13 +296,20 @@
 </div>
 <br/>
 
-## Queue
+## Math
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)| [Java](./Queue/Java/622_Design_Circular_Queue.java) | _O(1)_ | _O(n)_ | Medium | Queue & Stack | 
-0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)| [Java](./Queue/Java/933_Number_of_Recent_Calls.java) | _O(1)_ | _O(1)_ | Easy | | Array, Binary Search
-0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)| [Java](./Queue/Java/950_Reveal_Cards_In_Increasing_Order.java) | _O(NlogN)_ | _O(N)_ | Medium | | Deque
-1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)| [Java](./Queue/Java/1046_Last_Stone_Weight.java) | _O(NlogN)_ | _O(N)_ | Easy | | Priority Queue, Bucket Sort
+0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Java](./Math/Java/7_Reverse_Integer.java) | _O(log(x))_ | _O(1)_ | Easy | Top Interview Questions | 
+0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Java](./Math/Java/9_Palindrome_Number.java) | _O(log(n))_ | _O(1)_ | Easy | | 
+0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Java](./Math/Java/50_Pow(x,n).java) | _O(logN)_ | _O(1)_ | Medium | Recursion I | Recursion, Iteration
+0172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)| [Java](./Math/Java/172_Factorial_Trailing_Zeroes.java) | _O(logN)_ | _O(1)_ | Medium | Top Interview Questions | 
+0202 | [Happy Number](https://leetcode.com/problems/happy-number/)| [Java](./Math/Java/202_Happy_Number.java) | _O(log(N))_ | _O(1)_ | Easy | | Hash Table, Two Pointer
+0204 | [Count Primes](https://leetcode.com/problems/count-primes/)| [Java](./Math/Java/204_Count_Prime.java) | _O(sqrt(N)log(log(N)))_ | _O(N)_ | Easy | Top Interview Questions | 
+0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)| [Java](./Math/Java/231_Power_of_Two.java) | _O(1)_ | _O(1)_ | Easy | | Bit Manipulation
+0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)| [Java](./Math/Java/263_Ugly_Number.java) | _O(2^N)_ | _O(1)_ | Easy | | 
+0292 | [Nim Game](https://leetcode.com/problems/nim-game/)| [Java](./Math/Java/292_Nim_Game.java) | _O(1)_ | _O(1)_ | Easy | | 
+0326 | [Power of Three](https://leetcode.com/problems/power-of-three/)| [Java](./Math/Java/326_Power_of_Three.java) | _O(1)_ | _O(1)_ | Easy | Top Interview Questions | Logarithms, Regex
+0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Java](./Math/Java/412_Fizz_Buzz.java) | _O(N)_ | _O(1)_ | Easy | Top Interview Questions | HashMap
 
 <br/>
 <div align="right">
@@ -280,36 +317,10 @@
 </div>
 <br/>
 
-## Stack
+## Graph
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [Java](./Stack/Java/150_Evaluate_Reverse_Polish_Notation.java) | _O(N)_ | _O(N)_ | Medium | Queue & Stack | lambda functionality
-0155 | [Min Stack](https://leetcode.com/problems/min-stack/)| [Java](./Stack/Java/155_Min_Stack.java) | _O(N)_ | _O(N)_ | Easy | Top Interview Questions | 
-0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [Java](./Stack/Java/739_Daily_Temperatures.java) | _O(N)_ | _O(N)_ | Medium | | 
-
-<br/>
-<div align="right">
-    <b><a href="#algorithms">⬆️ Back to Top</a></b>
-</div>
-<br/>
-
-## Heap
-|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)| [Java](./Heap/Java/703_Kth_Largest_Element_in_a_Stream.java) | _O(NlogK)_ | _O(K)_ | Easy | Binary Search Tree | 
-
-<br/>
-<div align="right">
-    <b><a href="#algorithms">⬆️ Back to Top</a></b>
-</div>
-<br/>
-
-## Depth-First Search
-|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)| [Java](./Stack/Java/236_Lowest_Common_Ancestor_of_a_Binary_Tree.java) | _O(N)_ | _O(N)_ | Medium | Binary Search Tree | 
-0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| [Java](./Stack/Java/841_Keys_and_Rooms.java) | _O(N)_ | _O(N)_ | Medium | | 
-0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)| [Java](./Stack/Java/897_Increasing_Order_Search_Tree.java) | _O(N)_ | _O(H)_ | Easy | | In-Order
+0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/)| [Java](./Graph/Java/133_Clone_Graph.java) | _O(N + M)_ | _O(N)_ | Medium | Queue & Stack | DFS, BFS
 
 <br/>
 <div align="right">
