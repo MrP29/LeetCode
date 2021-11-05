@@ -311,6 +311,7 @@
 0292 | [Nim Game](https://leetcode.com/problems/nim-game/)| [Java](./Math/Java/292_Nim_Game.java) | _O(1)_ | _O(1)_ | Easy | | 
 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/)| [Java](./Math/Java/326_Power_of_Three.java) | _O(1)_ | _O(1)_ | Easy | Top Interview Questions | Logarithms, Regex
 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Java](./Math/Java/412_Fizz_Buzz.java) | _O(N)_ | _O(1)_ | Easy | Top Interview Questions | HashMap
+0633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)| [Java](./Math/Java/633_Sum_of_Square_Numbers.java) | _O(sqrt(c) * logc)_ | _O(1)_ | Medium | | 
 
 <br/>
 <div align="right">
