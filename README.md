@@ -374,6 +374,7 @@
 0511 | [🔒Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)| [SQL](./Database/SQL/511_Game_Play_Analysis_I.sql) | Easy | | Aggregate Function, GROUP BY
 0512 | [🔒Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/)| [SQL](./Database/SQL/512_Game_Play_Analysis_II.sql) | Easy | | Sub Query
 0577 | [🔒Employee Bonus](https://leetcode.com/problems/employee-bonus/)| [SQL](./Database/SQL/577_Employee_Bonus.sql) | Easy | | LEFT OUTER, WHERE
+0596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)| [SQL](./Database/SQL/597_Classes_More_Than_5_Students.sql) | Easy | | GROUP BY, HAVING, Sub Query
 
 <br/>
 <div align="right">
