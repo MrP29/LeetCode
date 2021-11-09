@@ -1,4 +1,4 @@
-//Iteration (Time: O(n) Space: O(1))
+//Bottom-Up Iterative Optimized Dynamic Programming (Time: O(N) Space: O(1))
 class Solution {
     public int rob(int[] nums) {
         if(nums.length == 1)
@@ -15,7 +15,7 @@ class Solution {
     }
 }
 
-//Iteration (Time: O(n) Space: O(n))
+//Iterative Dynamic Programming from Left to Right (Time: O(N) Space: O(N))
 class Solution {
     public int rob(int[] nums) {
         if(nums.length == 1)
@@ -32,7 +32,22 @@ class Solution {
     }
 }
 
-//Recursion by LeetCode (Time: O(n) Space: O(n))
+//Iterative Dynamic Programming from Right to Left (Time: O(N) Space: O(N))
+class Solution {
+    public int rob(int[] nums) {
+        int n = nums.length
+        int[] steal = new int[n + 1];
+        steal[n] = 0;
+        steal[n - 1] = nums[n - 1];
+
+        for(int i = n - 2; i >= 0; i--)
+            steal[i] = Math.max(steal[i + 1] , steal[i + 2] + nums[i]);
+
+        return steal[0];
+    }
+}
+
+//Top-Down Recursive Dynamic Programming by LeetCode (Time: O(N) Space: O(N))
 class Solution {
     private int[] memo;
     
