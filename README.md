@@ -291,6 +291,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [Java](./Greedy/Java/45_Jump_Game_II.java) | _O(N)_ | _O(1)_ | Medium | | Dynamic Programming
 0055 | [Jump Game](https://leetcode.com/problems/jump-game/)| [Java](./Greedy/Java/55_Jump_Game.java) | _O(N)_ | _O(1)_ | Medium | Top Interview Questions | Dynamic Programming
+0452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)| [Java](./Greedy/Java/452_Minimum_Number_of_Arrows_to_Burst_Balloons.java) | _O(NlogN)_ | _O(logN)_ | Medium | | 
 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)| [Java](./Greedy/Java/1029_Two_City_Scheduling.java) | _O(NlogN)_ | _O(1)_ | Medium | | 
 
 <br/>
