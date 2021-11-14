@@ -45,6 +45,7 @@
 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [Java](./Array/Java/119_Pascal's_Triangle_II.java) | _O(N^2)_ | _O(N)_ | Easy | Array and String | Iteration, Recursion, Mathematics
 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Java](./Array/Java/122_Best_Time_to_Buy_and_Sell_Stock_II.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Simple One Pass
 0167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [Java](./Array/Java/167_Two_Sum_II.java) | _O(n)_ | _O(1)_ | Easy | Array and String | Two pointer
+0169 | [Majority Element](https://leetcode.com/problems/majority-element/)| [Java](./Array/Java/169_Majority_Element.java) | _O(N)_ | _O(1)_ | Easy | Top Interview Questions | Hash Table, Divide and Conquer, Sorting
 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)| [Java](./Array/Java/189_Rotate_Array.java) | _O(n)_ | _O(1)_ | Easy | Top Interview Questions | Reverse Array
 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)| [Java](./Array/Java/200_Number_of_Islands.java) | _O(NM)_ | _O(NM)_ | Medium | Top Interview Questions | DFS, BFS
 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| [Java](./Array/Java/209_Minimum_Size_Subarray_Sum.java) | _O(n)_ | _O(1)_ | Medium | Array and String | Two Pointer
