@@ -2,19 +2,16 @@
 class Solution {
     public int majorityElement(int[] nums) {
         Map<Integer, Integer> map = new HashMap();
+        int majority = nums.length / 2;
         
-        for(int num: nums) {
+        for(int num: nums)
             map.put(num, map.getOrDefault(num, 0) + 1);
-        }
         
-        Integer majority = null;
         for(int key: map.keySet()) {
-            if(majority == null)
-                majority = key;
-            if(map.get(majority) < map.get(key))
-                majority = key;
+            if(map.get(key) > majority)
+                return key;
         }
-        return majority;
+        return -1;
     }
 }
 
@@ -68,33 +65,35 @@ class Solution {
 
 //Divide and Conquer by LeetCode (Time: O(NlogN) Space: O(logN))
 class Solution {
+    int[] nums;
     public int majorityElement(int[] nums) {
-        return majorityElementRecur(nums, 0, nums.length - 1);
+        this.nums = nums;
+        return majorityElementRecur(0, nums.length - 1);
     }
     
-    private int majorityElementRecur(int[] nums, int min, int max) {
+    private int majorityElementRecur(int min, int max) {
         if(min == max)
             return nums[min];
         
         int mid = (max - min) / 2 + min;
-        int left = majorityElementRecur(nums, min, mid);
-        int right = majorityElementRecur(nums, mid + 1, max);
+        int left = majorityElementRecur(min, mid);
+        int right = majorityElementRecur(mid + 1, max);
         
         if(left == right)
             return left;
         
-        int leftCount = count(nums, left, min, max);
-        int rightCount = count(nums, right, min, max);
-        
-        return leftCount > rightCount ? left : right;
+        return count(left, right, min, max);
     }
     
-    private int count(int[] nums, int num, int min, int max) {
-        int count = 0;
+    private int count(int left, int right, int min, int max) {
+        int leftCount = 0;
+        int rightCount = 0;
         for(int i = min; i <= max; i++) {
-            if(nums[i] == num)
-                count++;
+            if(nums[i] == left)
+                leftCount++;
+            else if(nums[i] == right)
+                rightCount++;
         }
-        return count;
+        return leftCount > rightCount ? left : right;
     }
 }
