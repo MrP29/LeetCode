@@ -271,6 +271,7 @@
 | #    | Title                                                                                                             | Solution                                                              | Time   | Space  | Difficulty | Tag                | Note     |
 | ---- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------ | ------ | ---------- | ------------------ | -------- |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Java](./Stack/Java/236_Lowest_Common_Ancestor_of_a_Binary_Tree.java) | _O(N)_ | _O(N)_ | Medium     | Binary Search Tree |
+| 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./Stack/Java/543_Diameter_of_Binary_Tree.java) | _O(N)_ | _O(N)_ | Easy | |
 | 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)                                                   | [Java](./Stack/Java/841_Keys_and_Rooms.java)                          | _O(N)_ | _O(N)_ | Medium     |                    |
 | 0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)                       | [Java](./Stack/Java/897_Increasing_Order_Search_Tree.java)            | _O(N)_ | _O(H)_ | Easy       |                    | In-Order |
 
