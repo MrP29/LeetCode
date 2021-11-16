@@ -9,25 +9,48 @@
  */
 //Recursive DFS (Time: O(N) Space: O(N))
 class Solution {
-    TreeNode LCA;
-    
+    TreeNode LCA = null;
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        DFSTree(root, p, q);
+        DFSlowestCommonAncestor(root, p, q);
         return this.LCA;
     }
-    
-    private boolean DFSTree(TreeNode root, TreeNode p, TreeNode q) {
-        if(root == null)
-            return false;
-        
-        int leftSubtree = DFSTree(root.left, p, q) ? 1 : 0;
-        int rightSubtree = DFSTree(root.right, p, q) ? 1 : 0;
-        int mid = root == p || root == q ? 1 : 0;
-        
-        if(leftSubtree + mid + rightSubtree >= 2)
+
+    private TreeNode DFSlowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        if(root == null || this.LCA != null)
+            return null;
+
+        TreeNode leftSubTree = DFSlowestCommonAncestor(root.left, p, q);
+        TreeNode rightSubTree = DFSlowestCommonAncestor(root.right, p, q);
+
+        if(leftSubTree != null && rightSubTree != null)
+            this.LCA = root;
+        else if((root == p || root == q) && (leftSubTree != null || rightSubTree != null))
             this.LCA = root;
         
-        return leftSubtree + mid + rightSubtree > 0;
+        return (leftSubTree != null || rightSubTree != null || root == p || root == q) ? root : null;
+    }
+}
+
+//Recursive DFS (Time: O(N) Space: O(N))
+class Solution {
+    TreeNode LCA = null;
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        DFSlowestCommonAncestor(root, p, q);
+        return this.LCA;
+    }
+
+    private int DFSlowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        if(root == null || this.LCA != null)
+            return 0;
+
+        int leftSubTree = DFSlowestCommonAncestor(root.left, p, q);
+        int rightSubTree = DFSlowestCommonAncestor(root.right, p, q);
+        int curNode = (root == p || root == q) ? 1 : 0;
+        
+        if(leftSubTree + rightSubTree + curNode == 2)
+            this.LCA = root;
+        
+        return leftSubTree + rightSubTree + curNode > 0 ? 1 : 0;
     }
 }
 
