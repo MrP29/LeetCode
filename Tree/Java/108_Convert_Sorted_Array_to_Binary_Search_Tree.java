@@ -13,25 +13,27 @@
  *     }
  * }
  */
-//Recursion (Time: O(n) Space: O(n))
+//Recursion (Time: O(N) Space: O(N))
 class Solution {
+    int[] nums;
     public TreeNode sortedArrayToBST(int[] nums) {
-        return toBSTHelp(nums, 0, nums.length - 1);
+        this.nums = nums;
+        return toBSTHelp(0, nums.length - 1);
     }
     
-    private TreeNode toBSTHelp(int[] nums, int low, int high) {
+    private TreeNode toBSTHelp(int low, int high) {
         if(low > high)
             return null;
         
         int mid = (low + high) / 2;
         TreeNode node = new TreeNode(nums[mid]);
-        node.left = toBSTHelp(nums, low, mid - 1);
-        node.right = toBSTHelp(nums, mid + 1, high);
+        node.left = toBSTHelp(low, mid - 1);
+        node.right = toBSTHelp(mid + 1, high);
         return node;
     }
 }
 
-//Recursion (Time: O(n) Space: O(n))
+//Recursion (Time: O(N) Space: O(N))
 class Solution {
     public TreeNode sortedArrayToBST(int[] nums) {
         int mid = (nums.length) / 2;
