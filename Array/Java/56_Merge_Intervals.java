@@ -1,4 +1,4 @@
-//Array Sort (Time: O(NlogN) Space: O(N))
+//Array Sort with LinkedList (Time: O(NlogN) Space: O(N))
 class Solution {
     public int[][] merge(int[][] intervals) {
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
@@ -11,6 +11,27 @@ class Solution {
                 list.getLast()[1] = Math.max(list.getLast()[1], edge[1]);
         }
         
+        return list.toArray(new int[list.size()][]);
+    }
+}
+
+//Array Sort with ArrayList (Time: O(NlogN) Space: O(N))
+class Solution {
+    public int[][] merge(int[][] intervals) {
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+        
+        List<int[]> list = new ArrayList();
+        list.add(new int[]{intervals[0][0], intervals[0][1]});
+
+        for(int i = 1; i < intervals.length; i++) {
+            int end = list.get(list.size() - 1)[1];
+            if(end >= intervals[i][0]) {
+                list.get(list.size() - 1)[1] = Math.max(end, intervals[i][1]);
+            } else {
+                list.add(new int[]{intervals[i][0], intervals[i][1]});
+            }
+        }
+
         return list.toArray(new int[list.size()][]);
     }
 }
