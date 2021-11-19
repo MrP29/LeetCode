@@ -308,6 +308,7 @@
 | ---- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------- | --------- | ---------- | ----------------------- | ------------------- |
 | 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                             | [Java](./Greedy/Java/45_Jump_Game_II.java)                                | _O(N)_     | _O(1)_    | Medium     |                         | Dynamic Programming |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                   | [Java](./Greedy/Java/55_Jump_Game.java)                                   | _O(N)_     | _O(1)_    | Medium     | Top Interview Questions | Dynamic Programming |
+| 0253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                                     | [Java](./Greedy/Java/253_Meeting_Rooms_II.java)                           | _O(NlogN)_ | _O(N)_    | Medium     | Top Amazon Questions    | Dynamic Programming |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Java](./Greedy/Java/452_Minimum_Number_of_Arrows_to_Burst_Balloons.java) | _O(NlogN)_ | _O(logN)_ | Medium     |                         |
 | 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)                                               | [Java](./Greedy/Java/1029_Two_City_Scheduling.java)                       | _O(NlogN)_ | _O(1)_    | Medium     |                         |
 
@@ -378,6 +379,7 @@
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                   | [Java](./Design/Java/232_Implement_Queue_using_Stacks.java)          | _O(N)_ | _O(N)_ | Easy       | Queue & Stack           | Queue, Stack      |
 | 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Java](./Design/Java/297_Serialize_and_Deserialize_Binary_Tree.java) | _O(N)_ | _O(N)_ | Hard       | Top Interview Questions | BFS, DFS          |
 | 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                     | [Java](<./Design/Java/380_Insert_Delete_GetRandom_O(1).java>)        | _O(1)_ | _O(1)_ | Medium     | Top Interview Questions | Hash Table, Array |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/)                                 | [Java](./Design/Java/1603_Design_Parking_System.java)                | _O(1)_ | _O(1)_ | Easy       | Top Amazon Questions    |                   |
 
 <br/>
 <div align="right">
