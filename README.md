@@ -269,12 +269,13 @@
 
 ## Depth-First Search
 
-| #    | Title                                                                                                             | Solution                                                              | Time   | Space  | Difficulty | Tag                | Note     |
-| ---- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------ | ------ | ---------- | ------------------ | -------- |
-| 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Java](./Stack/Java/236_Lowest_Common_Ancestor_of_a_Binary_Tree.java) | _O(N)_ | _O(N)_ | Medium     | Binary Search Tree |
-| 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                 | [Java](./Stack/Java/543_Diameter_of_Binary_Tree.java)                 | _O(N)_ | _O(N)_ | Easy       |                    |
-| 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)                                                   | [Java](./Stack/Java/841_Keys_and_Rooms.java)                          | _O(N)_ | _O(N)_ | Medium     |                    |
-| 0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)                       | [Java](./Stack/Java/897_Increasing_Order_Search_Tree.java)            | _O(N)_ | _O(H)_ | Easy       |                    | In-Order |
+| #    | Title                                                                                                                                           | Solution                                                                            | Time   | Space  | Difficulty | Tag                 | Note     |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------ | ------ | ---------- | ------------------- | -------- |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)                               | [Java](./Stack/Java/236_Lowest_Common_Ancestor_of_a_Binary_Tree.java)               | _O(N)_ | _O(N)_ | Medium     | Binary Search Tree  |
+| 0323 | [🔒Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [Java](./Stack/Java/323_Number_of_Connected_Components_in_an_Undirected_Graph.java) | _O(N)_ | _O(N)_ | Medium     | Top Amazon Question | Union    |
+| 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                               | [Java](./Stack/Java/543_Diameter_of_Binary_Tree.java)                               | _O(N)_ | _O(N)_ | Easy       |                     |
+| 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)                                                                                 | [Java](./Stack/Java/841_Keys_and_Rooms.java)                                        | _O(N)_ | _O(N)_ | Medium     |                     |
+| 0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)                                                     | [Java](./Stack/Java/897_Increasing_Order_Search_Tree.java)                          | _O(N)_ | _O(H)_ | Easy       |                     | In-Order |
 
 <br/>
 <div align="right">
@@ -308,7 +309,7 @@
 | ---- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------- | --------- | ---------- | ----------------------- | ------------------- |
 | 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                             | [Java](./Greedy/Java/45_Jump_Game_II.java)                                | _O(N)_     | _O(1)_    | Medium     |                         | Dynamic Programming |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                   | [Java](./Greedy/Java/55_Jump_Game.java)                                   | _O(N)_     | _O(1)_    | Medium     | Top Interview Questions | Dynamic Programming |
-| 0253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                                     | [Java](./Greedy/Java/253_Meeting_Rooms_II.java)                           | _O(NlogN)_ | _O(N)_    | Medium     | Top Amazon Questions    | Dynamic Programming |
+| 0253 | [🔒Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                                   | [Java](./Greedy/Java/253_Meeting_Rooms_II.java)                           | _O(NlogN)_ | _O(N)_    | Medium     | Top Amazon Questions    | Dynamic Programming |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Java](./Greedy/Java/452_Minimum_Number_of_Arrows_to_Burst_Balloons.java) | _O(NlogN)_ | _O(logN)_ | Medium     |                         |
 | 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)                                               | [Java](./Greedy/Java/1029_Two_City_Scheduling.java)                       | _O(NlogN)_ | _O(1)_    | Medium     |                         |
 
