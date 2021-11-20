@@ -64,8 +64,8 @@ class Solution {
 class Solution {
     public int minMeetingRooms(int[][] intervals) {
         int n = intervals.length;
-        int[] start = new int[n];
-        int[] end = new int[n];
+        Integer[] start = new Integer[n];
+        Integer[] end = new Integer[n];
         
         for(int i = 0; i < n; i++) {
             start[i] = intervals[i][0];
