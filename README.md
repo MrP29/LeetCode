@@ -325,22 +325,23 @@
 
 ## Math
 
-| #    | Title                                                                                 | Solution                                               | Time                    | Space  | Difficulty | Tag                     | Note                    |
-| ---- | ------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------- | ------ | ---------- | ----------------------- | ----------------------- |
+| #    | Title                                                                                 | Solution                                               | Time                    | Space  | Difficulty | Tag                     | Note                        |
+| ---- | ------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------- | ------ | ---------- | ----------------------- | --------------------------- |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                     | [Java](./Math/Java/7_Reverse_Integer.java)             | _O(log(x))_             | _O(1)_ | Easy       | Top Interview Questions |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                 | [Java](./Math/Java/9_Palindrome_Number.java)           | _O(log(n))_             | _O(1)_ | Easy       |                         |
-| 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)             | [Java](./Math/Java/29_Divide_Two_Integers.java)        | _O(logN)_               | _O(1)_ | Medium     | Top Interview Questions | Bit Manipulation, Stack |
-| 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                    | [Java](<./Math/Java/50_Pow(x,n).java>)                 | _O(logN)_               | _O(1)_ | Medium     | Recursion I             | Recursion, Iteration    |
+| 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)             | [Java](./Math/Java/29_Divide_Two_Integers.java)        | _O(logN)_               | _O(1)_ | Medium     | Top Interview Questions | Bit Manipulation, Stack     |
+| 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                    | [Java](<./Math/Java/50_Pow(x,n).java>)                 | _O(logN)_               | _O(1)_ | Medium     | Recursion I             | Recursion, Iteration        |
 | 0172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](./Math/Java/172_Factorial_Trailing_Zeroes.java) | _O(logN)_               | _O(1)_ | Medium     | Top Interview Questions |
-| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)                           | [Java](./Math/Java/202_Happy_Number.java)              | _O(log(N))_             | _O(1)_ | Easy       |                         | Hash Table, Two Pointer |
+| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)                           | [Java](./Math/Java/202_Happy_Number.java)              | _O(log(N))_             | _O(1)_ | Easy       |                         | Hash Table, Two Pointer     |
 | 0204 | [Count Primes](https://leetcode.com/problems/count-primes/)                           | [Java](./Math/Java/204_Count_Prime.java)               | _O(sqrt(N)log(log(N)))_ | _O(N)_ | Easy       | Top Interview Questions |
-| 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)                           | [Java](./Math/Java/231_Power_of_Two.java)              | _O(1)_                  | _O(1)_ | Easy       |                         | Bit Manipulation        |
+| 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)                           | [Java](./Math/Java/231_Power_of_Two.java)              | _O(1)_                  | _O(1)_ | Easy       |                         | Bit Manipulation            |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)                             | [Java](./Math/Java/263_Ugly_Number.java)               | _O(2^N)_                | _O(1)_ | Easy       |                         |
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game/)                                   | [Java](./Math/Java/292_Nim_Game.java)                  | _O(1)_                  | _O(1)_ | Easy       |                         |
-| 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/)                       | [Java](./Math/Java/326_Power_of_Three.java)            | _O(1)_                  | _O(1)_ | Easy       | Top Interview Questions | Logarithms, Regex       |
-| 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                 | [Java](./Math/Java/412_Fizz_Buzz.java)                 | _O(N)_                  | _O(1)_ | Easy       | Top Interview Questions | HashMap                 |
+| 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/)                       | [Java](./Math/Java/326_Power_of_Three.java)            | _O(1)_                  | _O(1)_ | Easy       | Top Interview Questions | Logarithms, Regex           |
+| 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                 | [Java](./Math/Java/412_Fizz_Buzz.java)                 | _O(N)_                  | _O(1)_ | Easy       | Top Interview Questions | HashMap                     |
 | 0633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)         | [Java](./Math/Java/633_Sum_of_Square_Numbers.java)     | _O(sqrt(c) \* logc)_    | _O(1)_ | Medium     |                         |
 | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)     | [Java](./Math/Java/1041_Robot_Bounded_In_Circle.java)  | _O(N)_                  | _O(1)_ | Medium     | Top Amazon Questions    |
+| 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)             | [Java](./Math/Java/1492_The_kth_Factor_of_n.java)      | _O(N)_                  | _O(1)_ | Medium     | Top Amazon Questions    | Priority Queue, Mathematics |
 
 <br/>
 <div align="right">
