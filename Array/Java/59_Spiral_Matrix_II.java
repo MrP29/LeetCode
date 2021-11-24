@@ -25,6 +25,34 @@ class Solution {
     }
 }
 
+//Time: O(N^2) Space: O(1)
+class Solution {
+    public int[][] generateMatrix(int n) {
+        int[][] DIR = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+        int[][] ans = new int[n][n];
+        int direct = 0;
+        
+        int r = 0;
+        int c = 0;
+        int size = n * n;
+        for(int i = 1; i <= size; i++) {
+            ans[r][c] = i;
+            int newR = r + DIR[direct][0];
+            int newC = c + DIR[direct][1];  
+            
+            if(newR < 0 || newR >= n || newC < 0 || newC >= n || ans[newR][newC] != 0) {
+                direct = (direct + 1) % 4;
+                r += DIR[direct][0];
+                c += DIR[direct][1];
+            } else {
+                r = newR;
+                c = newC;
+            }
+        }
+        return ans;
+    }
+}
+
 //by LeetCode (Time: O(N^2) Space: O(1))
 class Solution {
     public int[][] generateMatrix(int n) {
