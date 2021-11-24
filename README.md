@@ -384,13 +384,14 @@
 
 ## Design
 
-| #    | Title                                                                                                         | Solution                                                             | Time   | Space  | Difficulty | Tag                     | Note              |
-| ---- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------ | ------ | ---------- | ----------------------- | ----------------- |
-| 0225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                   | [Java](./Design/Java/225_Implement_Stack_using_Queues.java)          | _O(N)_ | _O(1)_ | Easy       | Queue & Stack           | Queue, Stack      |
-| 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                   | [Java](./Design/Java/232_Implement_Queue_using_Stacks.java)          | _O(N)_ | _O(N)_ | Easy       | Queue & Stack           | Queue, Stack      |
-| 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Java](./Design/Java/297_Serialize_and_Deserialize_Binary_Tree.java) | _O(N)_ | _O(N)_ | Hard       | Top Interview Questions | BFS, DFS          |
-| 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                     | [Java](<./Design/Java/380_Insert_Delete_GetRandom_O(1).java>)        | _O(1)_ | _O(1)_ | Medium     | Top Interview Questions | Hash Table, Array |
-| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/)                                 | [Java](./Design/Java/1603_Design_Parking_System.java)                | _O(1)_ | _O(1)_ | Easy       | Top Amazon Questions    |                   |
+| #    | Title                                                                                                         | Solution                                                             | Time   | Space  | Difficulty | Tag                     | Note                           |
+| ---- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------ | ------ | ---------- | ----------------------- | ------------------------------ |
+| 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                         | [Java](./Design/Java/146_LRU_Cache.java)                             | _O(1)_ | _O(c)_ | Medium     | Top Amazon Questions    | Hash Table, Doubly Linked List |
+| 0225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                   | [Java](./Design/Java/225_Implement_Stack_using_Queues.java)          | _O(N)_ | _O(1)_ | Easy       | Queue & Stack           | Queue, Stack                   |
+| 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                   | [Java](./Design/Java/232_Implement_Queue_using_Stacks.java)          | _O(N)_ | _O(N)_ | Easy       | Queue & Stack           | Queue, Stack                   |
+| 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Java](./Design/Java/297_Serialize_and_Deserialize_Binary_Tree.java) | _O(N)_ | _O(N)_ | Hard       | Top Interview Questions | BFS, DFS                       |
+| 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                     | [Java](<./Design/Java/380_Insert_Delete_GetRandom_O(1).java>)        | _O(1)_ | _O(1)_ | Medium     | Top Interview Questions | Hash Table, Array              |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/)                                 | [Java](./Design/Java/1603_Design_Parking_System.java)                | _O(1)_ | _O(1)_ | Easy       | Top Amazon Questions    |                                |
 
 <br/>
 <div align="right">
