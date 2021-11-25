@@ -99,7 +99,7 @@ class Solution {
     }
 }
 
-//Indegree of Graph (Time: O(V^2) Space: O(V))
+//Brute Force Indegree of Graph (Time: O(V^2) Space: O(V))
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         int[] res = new int[numCourses];
@@ -131,6 +131,7 @@ class Solution {
             else
                 return new int[]{};
         }
+
         return res;
     }
 }
