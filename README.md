@@ -276,6 +276,18 @@
 </div>
 <br/>
 
+## Breadth-First Search
+
+| #    | Title                                                             | Solution                                                     | Time        | Space       | Difficulty | Tag                  | Note |
+| ---- | ----------------------------------------------------------------- | ------------------------------------------------------------ | ----------- | ----------- | ---------- | -------------------- | ---- |
+| 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Java](./Breadth_First_Search/Java/994_Rotting_Oranges.java) | _O(N \* M)_ | _O(N \* M)_ | Medium     | Top Amazon Questions |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## Depth-First Search
 
 | #    | Title                                                                                                                                           | Solution                                                                            | Time   | Space  | Difficulty | Tag                  | Note     |
