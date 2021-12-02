@@ -25,6 +25,30 @@ class Solution {
         int[] left = new int[n];
         int[] right = new int[n];
         
+        left[0] = nums[0];
+        right[n - 1] = nums[n - 1];
+        for(int i = 1; i < n - 1; i++) {
+            left[i] = nums[i] * left[i - 1];
+            right[n - i - 1] = nums[n - i - 1] * right[n - i];
+        }
+        
+        int[] ans = new int[n];
+        ans[0] = right[1];
+        ans[n - 1] = left[n - 2];
+        for(int i = 1; i < n - 1; i++)
+            ans[i] = left[i - 1] * right[i + 1];
+        
+        return ans;
+    }
+}
+
+//Using Two Aux Arrays (Time: O(N) Space: O(N))
+class Solution {
+    public int[] productExceptSelf(int[] nums) {
+        int n = nums.length;
+        int[] left = new int[n];
+        int[] right = new int[n];
+        
         left[0] = 1;
         for(int i = 1; i < n; i++)
             left[i] = nums[i - 1] * left[i - 1];
