@@ -1,4 +1,4 @@
-//DFS (Time: O(N) Space: O(N))
+//DFS (Time: O(N * M) Space: O(N * M))
 class Solution {
     char[][] board;
     int ROW;
@@ -45,7 +45,7 @@ class Solution {
     }
 }
 
-//BFS (Time: O(N) Space: O(N))
+//BFS (Time: O(N * M) Space: O(N * M))
 class Solution {
     int ROW;
     int COL;
