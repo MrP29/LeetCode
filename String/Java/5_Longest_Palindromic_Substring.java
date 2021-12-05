@@ -1,3 +1,29 @@
+//Expanding Window (Time: O(N^2) Space: O(1))
+class Solution {
+    public String longestPalindrome(String s) {
+        int begin = 0;
+        int end = 0;
+        for(int i = 0; i < s.length(); i++) {
+            int odd = expandString(s, i, i);
+            int even = expandString(s, i, i + 1);
+            int len = Math.max(odd, even);
+            if(len > end - begin) {
+                begin = i - (len - 1) / 2;
+                end = i + len / 2;
+            }
+        }
+        return s.substring(begin, end + 1);
+    }
+    
+    private int expandString(String s, int b, int e) {
+        while(b >= 0 && e < s.length() && s.charAt(b) == s.charAt(e)) {
+            b--;
+            e++;
+        }
+        return e - b - 1;
+    }
+}
+
 //Brutal Force (Time: O(N^3) Space: O(N))
 class Solution {
     public String longestPalindrome(String s) {
@@ -24,31 +50,5 @@ class Solution {
                 return "";
         }
         return check;
-    }
-}
-
-//Expanding String by LeetCode (Time: O(N^2) Space: O(1))
-class Solution {
-    public String longestPalindrome(String s) {
-        int begin = 0;
-        int end = 0;
-        for(int i = 0; i < s.length(); i++) {
-            int len1 = expandString(s, i, i);
-            int len2 = expandString(s, i, i + 1);
-            int len = Math.max(len1, len2);
-            if(len > end - begin) {
-                begin = i - (len - 1) / 2;
-                end = i + len / 2;
-            }
-        }
-        return s.substring(begin, end + 1);
-    }
-    
-    private int expandString(String s, int b, int e) {
-        while(b >= 0 && e < s.length() && s.charAt(b) == s.charAt(e)) {
-            b--;
-            e++;
-        }
-        return e - b - 1;
     }
 }
