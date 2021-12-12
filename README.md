@@ -172,6 +172,7 @@
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                       | [Java](./Linked-list/Java/328_Odd_Even_Linked_List.java)                    | _O(n)_         | _O(1)_         | Medium     | Linked List             |
 | 0430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Java](./Linked-list/Java/430_Flatten_a_Multilevel_Doubly_Linked_List.java) | _O(N)_         | _O(N)_         | Medium     | Linked List             | DFS, Iteration, Recursion     |
 | 0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/)                                           | [Java](./Linked-list/Java/707_Design_Linked_List.java)                      | _O(1)_         | _O(1)_         | Medium     | Linked List             |
+| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                             | [Java](./Linked-list/Java/876_Middle_of_the_Linked_List.java)               | _O(N)_         | _O(1)_         | Easy       |                         |
 
 <br/>
 <div align="right">
@@ -464,6 +465,7 @@
 | 0525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)                                                                                     |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                                                 |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                                                                     |
+| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                                   |
 | 0954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)                                                                         |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)                                                             |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)                                                                               |
