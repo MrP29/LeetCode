@@ -13,10 +13,10 @@ class Node {
 }
 */
 //Iteration with HashMap (Time: O(N) Space: O(N))
-class Solution {
-    Map<Node, Node> visited = new HashMap<>();
-    
+class Solution {   
     public Node copyRandomList(Node head) {
+        Map<Node, Node> visited = new HashMap<>();
+ 
         if(head == null)
             return null;
         
@@ -49,6 +49,39 @@ class Solution {
             newCur = newCur.next;
         }
         return newHead;
+    }
+}
+
+//Iteration with HashMap (Time: O(N) Space: O(N))
+class Solution {
+    public Node copyRandomList(Node head) {
+        Map<Node, Node> map = new HashMap();
+        
+        if(head != null)
+            map.put(head, new Node(head.val));
+        Node cur = head;
+        
+        while(cur != null) {
+            if(!map.containsKey(cur.next)) {
+                if(cur.next != null)
+                    map.put(cur.next, new Node(cur.next.val));
+                else
+                    map.put(cur.next, null);
+            }
+            map.get(cur).next = map.get(cur.next);
+            
+            if(!map.containsKey(cur.random)) {
+                if(cur.random != null)
+                    map.put(cur.random, new Node(cur.random.val));
+                else
+                    map.put(cur.random, null);
+            }
+            map.get(cur).random = map.get(cur.random);
+            
+            cur = cur.next;
+        }
+        
+        return map.get(head);
     }
 }
 
