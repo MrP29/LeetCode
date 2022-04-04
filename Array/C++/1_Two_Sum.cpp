@@ -1,4 +1,4 @@
-//Unordered Map (Time: O(N) Space: O(N))
+//Unordered Map(Hash Map) (Time: O(N) Space: O(N))
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
